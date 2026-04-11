@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "62cc9d318683c4c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdee315ad60b8f03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e67a924c264b6d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e98aa2f46a44cae5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2142ec4d10e97ec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edde5e2da3cdbeea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f9a9957e1e48fbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "047d4cd9dacb53a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbf70d4bf37f479e",
+    "type": "split",
+    "children": [
+      {
+        "id": "37fe280cc0600d39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8a91bdd9d56ef3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5d39a6673bf69a75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e437a84f5748b51f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "800e3d38fa4f9f08",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "91302bf03e6686fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9e67a924c264b6d6",
+  "lastOpenFiles": [
+    "raw/Developing a standard AI OS Unlocking production-grade AI at enterprise scale.md",
+    "raw/milla-jovovichmempalace The highest-scoring AI memory system ever benchmarked. And it's free.md",
+    "raw/techcrunchcom-2026-04-07.md",
+    "wiki/sources/redhat-slms-scientific-research-2026-03-30.md",
+    "2026-04-10.md",
+    "raw/What 81,000 people want from AI.md",
+    "raw/Part I AI for scientific research The power of small language models.md",
+    "raw/anthropiccom-2026-04-09.md",
+    "wiki/concepts/ai-and-economic-displacement.md",
+    "wiki/concepts/ai-emotional-support.md",
+    "wiki/concepts/sycophancy.md",
+    "wiki/concepts/ai-as-equalizer.md",
+    "wiki/concepts/cognitive-atrophy.md",
+    "wiki/concepts/light-and-shade-of-ai.md",
+    "wiki/sources/anthropic-81k-interviews-2026-03-18.md",
+    "wiki/sources/anthropiccom-2026-04-09.md",
+    "wiki/entities/anthropic.md",
+    "wiki/concepts/ai-enabled-learning.md",
+    "wiki/concepts/ai-for-societal-challenges.md",
+    "wiki/concepts/ai-driven-entrepreneurship.md",
+    "wiki/concepts/ai-for-personal-growth.md",
+    "wiki/concepts/ai-assisted-productivity.md",
+    "wiki/concepts/sentiment-analysis.md",
+    "wiki/concepts/ai-classification.md",
+    "wiki/concepts/open-ended-interviews.md",
+    "wiki/concepts/conversational-ai-interviewer.md",
+    "wiki/personal",
+    "wiki/projects",
+    "wiki/business",
+    "OS Agent Vault/wiki/log.md.tmp.100548.1775591415702",
+    "OS Agent Vault/wiki/index.md.tmp.100548.1775591410583",
+    "OS Agent Vault/raw/assets",
+    "OS Agent Vault/raw",
+    "OS Agent Vault/wiki/analyses",
+    "OS Agent Vault/wiki/comparisons",
+    "OS Agent Vault/wiki/concepts"
+  ]
+}
