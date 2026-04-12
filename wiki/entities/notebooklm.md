@@ -1,14 +1,11 @@
-```yaml
-tags:
-  - AI-powered study tools
-  - educational technology
-  - Google
-  - note-taking
-  - AI chat assistants
-  - flashcards
-  - quizzes
-  - document processing
-```
+---
+title: NotebookLM
+type: entity
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [product, google-deepmind, multimodal, agents, "2026"]
+---
 
 # NotebookLM
 
@@ -20,5 +17,4 @@ NotebookLM reflects a growing trend in [[educational technology]] toward user-ce
 
 ## Sources
 
-- techcrunch.com  
-```
+- techcrunch.com

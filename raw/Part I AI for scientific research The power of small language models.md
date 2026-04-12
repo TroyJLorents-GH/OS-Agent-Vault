@@ -8,7 +8,16 @@ published: 2026-03-30
 created: 2026-04-08
 description: "Discover how small language models (SLMs) and a unified AI platform accelerate AI in scientific research by overcoming compute silos and data privacy challenges, and how Red Hat AI enables research institutions to build domain-specific, reproducible models that transform complex workflows."
 tags:
-  - "clippings"
+  - clippings
+  - llm
+  - slm
+  - fine-tuning
+  - compute
+  - training
+  - inference
+  - red-hat
+  - scientific-research
+  - domain-specific-ai
 ---
 Scientific research has a compute problem. Not a shortage of ideas, but a shortage of infrastructure that can keep up with them. It also has a platform problem—how can we deliver [generative AI](https://www.redhat.com/en/topics/ai/what-is-generative-ai) (gen AI) capabilities through the right architecture and operating model so institutions can provide access without handing every user unrestricted access to expensive models and runaway spend.
 

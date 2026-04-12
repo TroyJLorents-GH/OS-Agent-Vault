@@ -1,12 +1,14 @@
-```yaml
+---
+title: Goodnotes
+type: entity
+created: 2026-04-07
+updated: 2026-04-11
+sources:
+  - techcrunchcom-2026-04-07
 tags:
-  - educational technology
-  - note-taking
-  - study tools
-  - AI integration
-  - productivity
-  - digital notebooks
-```
+  - product
+  - multimodal
+---
 
 # Goodnotes
 
@@ -20,5 +22,4 @@ Goodnotes emphasizes user-friendly design and flexibility, catering to diverse w
 
 ## Sources
 
-- techcrunch.com  
-```
+- techcrunch.com

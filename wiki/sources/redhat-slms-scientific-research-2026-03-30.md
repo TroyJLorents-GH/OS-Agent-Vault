@@ -4,7 +4,7 @@ type: source
 created: 2026-04-08
 updated: 2026-04-08
 sources: ["Part I AI for scientific research The power of small language models.md"]
-tags: [llm, slm, fine-tuning, inference, training, compute, domain-specific-ai, scientific-research, red-hat, nvidia, 2026, technique, product]
+tags: [llm, slm, fine-tuning, inference, training, compute, domain-specific-ai, scientific-research, red-hat, nvidia, "2026", technique, product]
 ---
 
 # Part I: AI for Scientific Research — The Power of Small Language Models

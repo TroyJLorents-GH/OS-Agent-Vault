@@ -1,6 +1,11 @@
-```yaml
-tags: [AI, educational-technology, study-tools, Adobe, AI-assistants, productivity, student-resources]
-```
+---
+title: Turbo AI
+type: entity
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [product, agents, multimodal, "2026"]
+---
 
 # Turbo AI
 

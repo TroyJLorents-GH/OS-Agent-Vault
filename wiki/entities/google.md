@@ -1,6 +1,11 @@
-```yaml
-tags: [technology, AI, educational tools, Google, AI-powered study tools, productivity]
-```
+---
+title: Google
+type: entity
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [google-deepmind, llm, product, "2026"]
+---
 
 # Google
 
@@ -12,5 +17,4 @@ Google's continuous innovation in AI and educational technology reflects its com
 
 ## Sources
 
-- techcrunch.com  
-```
+- techcrunch.com

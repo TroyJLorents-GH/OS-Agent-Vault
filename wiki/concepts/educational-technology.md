@@ -1,12 +1,11 @@
-```yaml
-tags:
-  - educational technology
-  - AI tools
-  - study aids
-  - Adobe
-  - digital learning
-  - productivity tools
-```
+---
+title: Educational Technology
+type: concept
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [education, product, technique, llm, "2026"]
+---
 
 # educational technology
 
@@ -22,5 +21,4 @@ These innovations exemplify how [[educational technology]] is evolving to provid
 
 - TechCrunch: Adobe launches Acrobat Spaces, a free AI-powered study tool for students  
 - Adobe official announcements  
-- User feedback from Harvard, Berkeley, and Brown students  
-```
+- User feedback from Harvard, Berkeley, and Brown students

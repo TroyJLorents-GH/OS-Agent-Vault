@@ -1,6 +1,11 @@
-```yaml
-tags: [AI, chat-assistants, education, Adobe, productivity-tools]
-```
+---
+title: AI Chat Assistants
+type: concept
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [education, technique, product, llm, agents, "2026"]
+---
 
 # AI chat assistants
 

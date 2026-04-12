@@ -1,12 +1,11 @@
-```yaml
-tags:
-  - AI
-  - study-tools
-  - education
-  - Adobe
-  - productivity
-  - software
-```
+---
+title: AI-Powered Study Tools
+type: concept
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [education, product, technique, llm, "2026"]
+---
 
 # AI-powered study tools
 
@@ -18,5 +17,4 @@ Acrobat Spaces is hosted on a separate URL to encourage adoption and ease of acc
 
 ## Sources
 
-- TechCrunch: Adobe launches Acrobat Spaces, an AI-powered study tool for students  
-```
+- TechCrunch: Adobe launches Acrobat Spaces, an AI-powered study tool for students

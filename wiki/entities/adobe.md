@@ -1,6 +1,11 @@
-```yaml
-tags: [Adobe, AI-powered study tools, educational technology, Acrobat Spaces, AI chat assistants, document processing]
-```
+---
+title: Adobe
+type: entity
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [product, multimodal, agents, "2026"]
+---
 
 # Adobe
 

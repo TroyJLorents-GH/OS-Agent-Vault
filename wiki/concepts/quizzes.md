@@ -1,5 +1,10 @@
-```yaml
-tags: [education, study-tools, AI, quizzes, Adobe, Acrobat-Spaces]
+---
+title: Quizzes
+type: concept
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [education, technique, product, llm, "2026"]
 ---
 
 # quizzes
@@ -16,5 +21,4 @@ For more on AI study tools, see [[Acrobat Spaces]] and [[AI in Education]].
 
 ## Sources
 
-- TechCrunch: Adobe launches Acrobat Spaces, a free AI-powered study tool for students  
-```
+- TechCrunch: Adobe launches Acrobat Spaces, a free AI-powered study tool for students

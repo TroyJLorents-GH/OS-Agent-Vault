@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-08
 updated: 2026-04-08
 sources: ["redhat-slms-scientific-research-2026-03-30"]
-tags: [product, red-hat, training, inference, fine-tuning, compute, 2026]
+tags: [product, red-hat, training, inference, fine-tuning, compute, "2026"]
 ---
 
 # Red Hat AI

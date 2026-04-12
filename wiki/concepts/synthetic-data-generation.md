@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-08
 updated: 2026-04-08
 sources: ["redhat-slms-scientific-research-2026-03-30"]
-tags: [technique, training, dataset, fine-tuning, 2026]
+tags: [technique, training, dataset, fine-tuning, "2026"]
 ---
 
 # Synthetic Data Generation

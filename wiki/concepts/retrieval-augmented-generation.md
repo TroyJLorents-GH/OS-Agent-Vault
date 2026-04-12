@@ -3,8 +3,8 @@ title: Retrieval-Augmented Generation (RAG)
 type: concept
 created: 2026-04-08
 updated: 2026-04-08
-sources: ["redhat-slms-scientific-research-2026-03-30"]
-tags: [technique, inference, llm, rag, 2026]
+sources: ["redhat-slms-scientific-research-2026-03-30", "S — MemPalace"]
+tags: [technique, inference, llm, rag, "2026"]
 ---
 
 # Retrieval-Augmented Generation (RAG)
@@ -35,5 +35,7 @@ This is a significant architectural insight. Many teams default to "just use RAG
 - Relevant to [[domain-specific AI]] as one of two essential components
 - [[Small language models]] benefit especially from RAG because their smaller weight capacity means they can't store as much knowledge — retrieval compensates
 - Troy's wiki system (this vault) is itself a form of manually-curated RAG: structured knowledge that an LLM retrieves and reasons over
+- [[MemPalace]] is a structured RAG system for conversation memory — its hierarchical palace structure acts as a pre-filter before vector search, yielding +34% retrieval improvement (Source: [[S — MemPalace]])
+- See [[AI Memory Systems]] for the broader comparison of store-and-retrieve vs. compile-and-maintain approaches
 
-(Source: [[redhat-slms-scientific-research-2026-03-30]])
+(Source: [[redhat-slms-scientific-research-2026-03-30]], [[S — MemPalace]])

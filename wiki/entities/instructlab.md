@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-08
 updated: 2026-04-08
 sources: ["redhat-slms-scientific-research-2026-03-30"]
-tags: [tool, training, fine-tuning, synthetic-data, red-hat, open-source, 2026]
+tags: [tool, training, fine-tuning, synthetic-data, red-hat, open-source, "2026"]
 ---
 
 # InstructLab

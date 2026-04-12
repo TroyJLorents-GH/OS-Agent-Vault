@@ -1,12 +1,11 @@
-```yaml
-tags:
-  - Ivan Mehta
-  - Adobe
-  - AI
-  - educational-technology
-  - product-development
-  - user-centered-design
-```
+---
+title: Ivan Mehta
+type: entity
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [product, "2026"]
+---
 
 # Ivan Mehta
 

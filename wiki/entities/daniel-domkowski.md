@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-08
 updated: 2026-04-08
 sources: ["redhat-slms-scientific-research-2026-03-30"]
-tags: [person, red-hat, scientific-research, fine-tuning, 2026]
+tags: [person, red-hat, scientific-research, fine-tuning, "2026"]
 ---
 
 # Daniel Domkowski

@@ -1,13 +1,11 @@
-```yaml
-tags:
-  - document-upload
-  - document-processing
-  - AI
-  - education
-  - Adobe
-  - Acrobat-Spaces
-  - study-tools
-```
+---
+title: Document Upload and Processing
+type: concept
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [education, technique, product, llm, "2026"]
+---
 
 # document upload and processing
 
@@ -23,5 +21,4 @@ The integration of AI in document upload and processing tools exemplifies a grow
 
 - TechCrunch: Adobe launches Acrobat Spaces, an AI-powered study tool for students  
 - Adobe official announcements  
-- Comparative analysis with Google NotebookLM and Goodnotes  
-```
+- Comparative analysis with Google NotebookLM and Goodnotes

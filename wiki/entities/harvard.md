@@ -1,6 +1,11 @@
-```yaml
-tags: [education, universities, Ivy League, Boston, research, history]
-```
+---
+title: Harvard
+type: entity
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: ["2026"]
+---
 
 # Harvard
 
@@ -14,5 +19,4 @@ As a leading institution, Harvard is often referenced in discussions about [[Ivy
 
 ## Sources
 
-- techcrunch.com  
-```
+- techcrunch.com

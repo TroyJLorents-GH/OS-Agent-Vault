@@ -6,7 +6,11 @@ published:
 created: 2026-04-08
 description: "The highest-scoring AI memory system ever benchmarked. And it's free. - milla-jovovich/mempalace"
 tags:
-  - "clippings"
+  - clippings
+  - llm
+  - agents
+  - technique
+  - benchmark
 ---
 [![MemPalace](https://github.com/milla-jovovich/mempalace/raw/main/assets/mempalace_logo.png)](https://github.com/milla-jovovich/mempalace/blob/main/assets/mempalace_logo.png)
 

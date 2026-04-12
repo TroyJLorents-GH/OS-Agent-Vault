@@ -4,7 +4,7 @@ type: source
 created: 2026-04-09
 updated: 2026-04-09
 sources: ["What 81,000 people want from AI.md"]
-tags: [anthropic, llm, alignment, safety, agents, prediction, opinion, 2026]
+tags: [anthropic, llm, alignment, safety, agents, prediction, opinion, "2026"]
 ---
 
 # What 81,000 People Want from AI

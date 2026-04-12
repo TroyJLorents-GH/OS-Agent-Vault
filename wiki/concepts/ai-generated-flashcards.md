@@ -1,6 +1,11 @@
-```yaml
-tags: [AI, flashcards, study-tools, Adobe, Acrobat-Spaces, education, productivity]
-```
+---
+title: AI-Generated Flashcards
+type: concept
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [education, technique, product, llm, "2026"]
+---
 
 # AI-generated flashcards
 

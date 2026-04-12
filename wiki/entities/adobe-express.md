@@ -1,6 +1,11 @@
-```yaml
-tags: [Adobe Express, AI-powered tools, educational technology, study aids, AI chat assistants, flashcards, quizzes, presentations]
-```
+---
+title: Adobe Express
+type: entity
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [product, multimodal, agents, "2026"]
+---
 
 # Adobe Express
 

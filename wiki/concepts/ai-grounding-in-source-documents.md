@@ -1,14 +1,11 @@
-```yaml
-tags:
-  - AI
-  - grounding
-  - source-documents
-  - Adobe
-  - Acrobat-Spaces
-  - study-tools
-  - education
-  - AI-assistance
-```
+---
+title: AI Grounding in Source Documents
+type: concept
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [technique, llm, education, alignment, "2026"]
+---
 
 # AI grounding in source documents
 
@@ -25,5 +22,4 @@ AI grounding in source documents is critical in educational tools to ensure that
 - Ivan Mehta and Charlie Miller, "Adobe launches Acrobat Spaces, a free AI-powered study tool," TechCrunch, 2024  
 - techcrunch.com  
 - Adobe, Acrobat Spaces official information  
-- Related products: Google NotebookLM, Goodnotes  
-```
+- Related products: Google NotebookLM, Goodnotes

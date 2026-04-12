@@ -1,7 +1,10 @@
 ---
 tags:
-  - AI
-  - apps
+  - clippings
+  - llm
+  - product
+  - education
+  - multimodal
 type: source
 date: 2026-04-07
 ---

@@ -1,6 +1,11 @@
-```yaml
-tags: [biography, cybersecurity, hacker, software, security researcher]
-```
+---
+title: Charlie Miller
+type: entity
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [safety, "2026"]
+---
 
 # Charlie Miller
 

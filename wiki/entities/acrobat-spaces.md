@@ -1,16 +1,11 @@
-```yaml
-tags:
-  - AI-powered study tools
-  - educational technology
-  - Adobe
-  - document processing
-  - student tools
-  - AI chat assistants
-  - flashcards
-  - quizzes
-  - podcasts
-  - user-centered design
-```
+---
+title: Acrobat Spaces
+type: entity
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [product, multimodal, agents, "2026"]
+---
 
 # Acrobat Spaces
 

@@ -1,6 +1,11 @@
-```yaml
-tags: [podcasts, AI, education, Adobe, Acrobat Spaces, study-tools]
-```
+---
+title: Podcasts
+type: concept
+created: 2026-04-07
+updated: 2026-04-11
+sources: ["techcrunchcom-2026-04-07"]
+tags: [education, technique, product, llm, multimodal, "2026"]
+---
 
 # podcasts
 
@@ -16,5 +21,4 @@ Adobe's offering competes with similar AI-enhanced educational products such as 
 
 - TechCrunch: Adobe launches Acrobat Spaces, an AI-powered study tool with AI-generated podcasts and more  
 - Adobe official announcements  
-- User feedback from Harvard, Berkeley, and Brown students  
-```
+- User feedback from Harvard, Berkeley, and Brown students

@@ -7,10 +7,12 @@ created: 2026-04-09
 description: Last December, tens of thousands of Claude users around the world had a conversation with our AI interviewer to share how they use AI, what they dream it could make possible, and what they fear it might do.
 tags:
   - clippings
-  - AI
+  - anthropic
   - llm
-  - scientific-research
-  - architecture
+  - alignment
+  - safety
+  - opinion
+  - prediction
 ---
 ## What 81,000 people want from AI
 

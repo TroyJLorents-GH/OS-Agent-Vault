@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-08
 updated: 2026-04-08
 sources: ["redhat-slms-scientific-research-2026-03-30"]
-tags: [llm, slm, architecture, training, inference, compute, technique, 2026]
+tags: [llm, slm, architecture, training, inference, compute, technique, "2026"]
 ---
 
 # Small Language Models (SLMs)
