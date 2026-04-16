@@ -150,3 +150,42 @@ _Chronological record of ingests, queries, and lint passes._
 - `concepts/AI Industry Landscape April 2026` — competitive snapshot: frontier models, valuations, pricing collapse, upcoming releases
 
 **Key findings:** The densest model release window in AI history (Feb-April 2026). GPT-5.4 scores 83% GDPVal (matches human experts on economically valuable tasks). Claude Sonnet 4.6 leads GDPval-AA Elo. Gemini 3.1 Pro tops reasoning benchmarks. OpenAI at $25B annualized revenue, possible IPO. Anthropic at $19B. Claude Mythos 5 (10T params) testing internally. Grok 5 (6T MoE) expected Q2. Morgan Stanley warns massive AI breakthrough imminent H1 2026. The shift is from "AI that answers" to "AI that gets things done." Startup advice: build model-agnostic, use multi-model orchestration, match model to task.
+
+## [2026-04-13] ingest | Open-Source AI Landscape April 2026: Complete Guide
+
+**Source:** Digital Applied (2026-04-03)
+
+**Pages created (2):**
+- `sources/S — Open-Source AI Landscape April 2026` — complete ecosystem map with model comparison tables, selection framework, deployment economics
+- `concepts/Open-Source AI` — the structural shift: 6 families at parity, Apache 2.0 liberation, MoE enabling single-GPU frontier
+
+**Key findings:** (1) 5 of 6 major open models use MoE, enabling single-GPU inference at frontier scale. (2) Apache 2.0/MIT covers 5 of 6 families — only Llama uses custom license. (3) Qwen leads coding benchmarks; Gemma 4 covers edge-to-server; Llama 4 Scout offers 10M context; Mistral Small 4 unifies reasoning/vision/coding in one model. (4) GLM-5 (744B, MIT) was trained entirely on Huawei chips — zero NVIDIA dependency, a geopolitical milestone. (5) Self-hosting crossover at ~50-100M tokens/month; above that, 3-10x savings. (6) "No single model dominates all dimensions" — the landscape is genuinely differentiated.
+
+## [2026-04-13] ingest | Best AI Tools 2026: 100+ Reviewed & Rated
+
+**Source:** AI Weekly by Alexis Gonzalez-del-Valle (2026-03-27)
+
+**Pages created (1):**
+- `sources/S — Best AI Tools 2026` — comprehensive tools catalog across 8 categories with pricing, verdicts, and comparison tables
+
+**Key findings:** (1) Two defining 2026 trends: reasoning over retrieval (o3 thinks before responding) and the agentic shift (tools performing work, not just answering). (2) Claude Code: 80.8% SWE-bench, 46% "most loved" among devs, $2.5B/yr revenue for Anthropic — went from zero to #1 in 8 months. (3) Copilot "once revolutionary, now table stakes" — power users migrating to Claude Code and Cursor. (4) OpenAI shut down Sora, redirected to robotics — video gen economically unviable at current compute. (5) n8n highlighted as "power user's Zapier" with AI Agent nodes for self-correcting workflows. (6) Perplexity crossed 1B monthly queries. (7) Tool selection advice: average experienced AI user has 2-3 paid subscriptions, not 15.
+- **2026-04-13 16:19 UTC** — query: 'Whats new with multimodal?' — 0 sources, filed=queries/whats-new-with-multimodal.md
+- **2026-04-13 16:19 UTC** — query: 'Whats trending in AI in April 2026?' — 0 sources, filed=queries/whats-trending-in-ai-in-april-2026.md
+- **2026-04-13 18:07 UTC** — query: 'What are best AI tools?' — 0 sources, filed=no
+
+## [2026-04-13] ingest | Best AI Tools 2026 (continued — entities and concepts)
+
+**Pages created (7):**
+- `entities/Cursor` — AI-native IDE, second most-loved coding tool
+- `entities/Perplexity` — AI search with citations, 1B queries/month
+- `entities/n8n` — open-source automation with AI Agent nodes
+- `entities/Midjourney` — leading AI image generator
+- `entities/ElevenLabs` — leading AI voice platform
+- `entities/Runway` — leading AI video generation
+- `concepts/AI Coding Tools` — competitive landscape, terminal agents vs AI-native IDEs, vibe coding
+
+**Key connection:** The coding tools landscape directly demonstrates the thesis from Raschka's coding agent article — the harness matters as much as the model. Claude Code's dominance (80.8% SWE-bench, $2.5B/yr) validates the 6-component framework. n8n applies the same agent loop pattern to business workflow automation.
+- **2026-04-13 19:14 UTC** — query: 'Where are my gaps?' — 0 sources, filed=queries/where-are-my-gaps.md
+- **2026-04-13 19:15 UTC** — query: 'What are the best AI   tools for coding?' — 0 sources, filed=queries/what-are-the-best-ai-tools-for-coding.md
+- **2026-04-13 21:47 UTC** — query: 'Where are my gaps?' — 4 sources, filed=queries/where-are-my-gaps.md
+- **2026-04-15 19:17 UTC** — query: 'what projects are opensource?' — 5 sources, filed=queries/what-projects-are-opensource.md

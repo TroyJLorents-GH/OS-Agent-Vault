@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/Coding Agent Architecture.md",
+                "file": "raw/AI Technology Trends 2026 Key Developments You Need to Know.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coding Agent Architecture"
+              "title": "AI Technology Trends 2026 Key Developments You Need to Know"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:technique",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/concepts/Coding Agent Architecture.md",
+                "file": "raw/Best AI Tools 2026 100+ Reviewed & Rated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Coding Agent Architecture"
+              "title": "Backlinks for Best AI Tools 2026 100+ Reviewed & Rated"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/concepts/Coding Agent Architecture.md",
+                "file": "raw/Best AI Tools 2026 100+ Reviewed & Rated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Coding Agent Architecture"
+              "title": "Outgoing links from Best AI Tools 2026 100+ Reviewed & Rated"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/concepts/Coding Agent Architecture.md",
+                "file": "raw/Best AI Tools 2026 100+ Reviewed & Rated.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Coding Agent Architecture"
+              "title": "Outline of Best AI Tools 2026 100+ Reviewed & Rated"
             }
           }
         ]
@@ -186,41 +185,41 @@
   },
   "active": "9e67a924c264b6d6",
   "lastOpenFiles": [
-    "wiki/concepts/Prompt Caching.md",
-    "wiki/concepts/ai-generated-flashcards.md",
-    "wiki/concepts/Coding Agent Architecture.md",
-    "wiki/sources/S — Components of A Coding Agent.md",
-    "wiki/entities/goodnotes.md",
-    "wiki/concepts/AI Industry Landscape April 2026.md",
-    "raw/New AI Model Releases News  April, 2026 (STARTUP EDITION).md",
-    "wiki/sources/S — New AI Model Releases April 2026 Startup Edition.md",
-    "wiki/log.md.tmp.92708.1775949098812",
-    "wiki/concepts/Agentic AI.md",
-    "wiki/sources/S — April 2026 Innovations in AI and Startup Trends.md",
-    "wiki/sources/S — AI Trending April 2026.md",
-    "wiki/concepts/Mixture of Experts.md",
-    "wiki/entities/Sebastian Raschka.md",
-    "raw/milla-jovovichmempalace The highest-scoring AI memory system ever benchmarked. And it's free.md",
-    "raw/anthropiccom-2026-04-09.md",
+    "raw/AI Technology Trends 2026 Key Developments You Need to Know.md",
+    "queries/what-projects-are-opensource.md",
+    "raw/Best AI Tools 2026 100+ Reviewed & Rated.md",
+    "queries/what-are-the-best-ai-tools-for-coding.md",
+    "queries/where-are-my-gaps.md",
+    "wiki/index.md.tmp.92708.1776107418801",
+    "wiki/concepts/AI Coding Tools.md",
+    "wiki/entities/Runway.md",
+    "wiki/entities/Runway.md.tmp.92708.1776107407005",
+    "wiki/entities/ElevenLabs.md",
+    "wiki/entities/Midjourney.md",
+    "wiki/entities/n8n.md",
+    "wiki/entities/Perplexity.md",
+    "wiki/entities/Cursor.md",
+    "wiki/index.md",
+    "wiki/sources/S — Best AI Tools 2026.md",
+    "raw/Best AI Tools 2026 100+ Reviewed & Rated.md.tmp.92708.1776102869477",
+    "wiki/log.md.tmp.92708.1776099421389",
+    "wiki/concepts/Open-Source AI.md",
+    "wiki/sources/S — Open-Source AI Landscape April 2026.md",
+    "raw/Open-Source AI Landscape April 2026 Complete Guide.md",
     "raw/April 2026 Innovations in AI and Startup Trends Shaping the Future.md",
     "raw/AI Trending April 2026 The Top 5 Developments & News.md",
-    "wiki/concepts/AI Memory Systems.md",
-    "wiki/entities/MemPalace.md",
+    "queries/whats-trending-in-ai-in-april-2026.md",
+    "queries/whats-new-with-multimodal.md",
+    "Untitled.md",
+    "raw/anthropiccom-2026-04-09.md",
+    "wiki/concepts/Coding Agent Architecture.md",
+    "wiki/concepts/Prompt Caching.md",
+    "wiki/concepts/ai-generated-flashcards.md",
+    "wiki/log.md.tmp.92708.1775949098812",
     "wiki/index.md.tmp.113172.1775937714124",
-    "wiki/sources/S — MemPalace.md",
-    "wiki/entities/Brian Stevens.md",
-    "wiki/concepts/AI Operating System.md",
-    "wiki/sources/S — Developing a Standard AI OS.md",
-    "CLAUDE.md",
-    "raw/Components of A Coding Agent.md",
-    "wiki/concepts/ai-for-personal-growth.md",
     "wiki/entities/claudeai.md.tmp.113172.1775934685602",
     "wiki/personal",
     "wiki/projects",
-    "wiki/business",
-    "OS Agent Vault/wiki/log.md.tmp.100548.1775591415702",
-    "OS Agent Vault/wiki/index.md.tmp.100548.1775591410583",
-    "OS Agent Vault/raw/assets",
-    "OS Agent Vault/raw"
+    "wiki/business"
   ]
 }

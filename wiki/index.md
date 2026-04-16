@@ -14,6 +14,8 @@ _Auto-maintained by the Knowledge Compiler._
 - [[sources/S — AI Trending April 2026]] — $242B Q1 VC funding, agentic AI as biggest trend, multimodal advances, healthcare/finance AI impact (2026-04-03)
 - [[sources/S — New AI Model Releases April 2026 Startup Edition]] — Densest model landscape snapshot: GPT-5.4, Claude Sonnet 4.6, Gemini 3.1, Grok 4.20, upcoming Mythos/Grok 5, startup strategy (2026-03-31)
 - [[sources/S — April 2026 Innovations in AI and Startup Trends]] — General-audience overview of frontier models, open-source AI, agent frameworks, and startup trends (2026-04-04)
+- [[sources/S — Open-Source AI Landscape April 2026]] — Complete ecosystem map: 6 model families, MoE dominance, Apache 2.0 liberation, selection framework, deployment economics (2026-04-03)
+- [[sources/S — Best AI Tools 2026]] — 100+ tools reviewed across chatbots, coding, image, video, audio, research, productivity; Claude Code most-loved, Sora shutdown (2026-03-27)
 
 ## Entities
 
@@ -36,6 +38,12 @@ _Auto-maintained by the Knowledge Compiler._
 - [[entities/DeepSeek]] — Chinese AI lab whose architecture (MLA + MoE) became the reference standard for open-weight LLMs
 - [[entities/Brian Stevens]] — Red Hat Blog author, advocates for a standard AI OS via open-source coopetition
 - [[entities/MemPalace]] — Open-source AI memory system with hierarchical palace structure, 96.6% R@5 on LongMemEval
+- [[entities/Cursor]] — AI-native IDE, 19% most-loved, inline AI suggestions and visual diffs
+- [[entities/Perplexity]] — AI search engine with citations, 1B monthly queries in Q1 2026
+- [[entities/n8n]] — Open-source workflow automation with AI Agent nodes, "power user's Zapier"
+- [[entities/Midjourney]] — Leading AI image generator for artistic quality, v8 native 2K
+- [[entities/ElevenLabs]] — Leading AI voice platform, indistinguishable from human speech
+- [[entities/Runway]] — Leading AI video generation, Gen-4.5 best temporal consistency
 
 ## Concepts
 
@@ -75,6 +83,8 @@ _Auto-maintained by the Knowledge Compiler._
 - [[concepts/AI Memory Systems]] — Approaches to persistent AI memory: store-and-retrieve vs. compile-and-maintain
 - [[concepts/Agentic AI]] — Autonomous AI teammates performing complex tasks; biggest trend of 2026, MCP at 97M installs
 - [[concepts/AI Industry Landscape April 2026]] — Competitive snapshot: frontier models, valuations, pricing collapse, upcoming releases
+- [[concepts/Open-Source AI]] — Six model families at parity with proprietary; Apache 2.0 liberation, MoE enabling single-GPU frontier inference
+- [[concepts/AI Coding Tools]] — 2026 coding tools landscape: terminal agents vs AI-native IDEs, harness matters more than model
 
 ## Comparisons
 
