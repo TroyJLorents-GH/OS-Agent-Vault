@@ -16,6 +16,7 @@ _Auto-maintained by the Knowledge Compiler._
 - [[sources/S — April 2026 Innovations in AI and Startup Trends]] — General-audience overview of frontier models, open-source AI, agent frameworks, and startup trends (2026-04-04)
 - [[sources/S — Open-Source AI Landscape April 2026]] — Complete ecosystem map: 6 model families, MoE dominance, Apache 2.0 liberation, selection framework, deployment economics (2026-04-03)
 - [[sources/S — Best AI Tools 2026]] — 100+ tools reviewed across chatbots, coding, image, video, audio, research, productivity; Claude Code most-loved, Sora shutdown (2026-03-27)
+- [[sources/S — AI Technology Trends 2026 Key Developments]] — $2.52T spending forecast, Inference Economics, agent success 20%→77.3%, EU/CA/CO regulation, physical AI pivot (2026-04-14)
 
 ## Entities
 
@@ -44,6 +45,7 @@ _Auto-maintained by the Knowledge Compiler._
 - [[entities/Midjourney]] — Leading AI image generator for artistic quality, v8 native 2K
 - [[entities/ElevenLabs]] — Leading AI voice platform, indistinguishable from human speech
 - [[entities/Runway]] — Leading AI video generation, Gen-4.5 best temporal consistency
+- [[entities/NVIDIA]] — Essential AI infrastructure; Isaac GR00T, Alpamayo, Jetson Thor; pivoting hard to physical AI and robotics
 
 ## Concepts
 
@@ -85,6 +87,9 @@ _Auto-maintained by the Knowledge Compiler._
 - [[concepts/AI Industry Landscape April 2026]] — Competitive snapshot: frontier models, valuations, pricing collapse, upcoming releases
 - [[concepts/Open-Source AI]] — Six model families at parity with proprietary; Apache 2.0 liberation, MoE enabling single-GPU frontier inference
 - [[concepts/AI Coding Tools]] — 2026 coding tools landscape: terminal agents vs AI-native IDEs, harness matters more than model
+- [[concepts/Inference Economics]] — The 2026 shift from training costs to serving costs; drives MoE adoption, AI OS stack, pricing collapse
+- [[concepts/AI Regulation]] — EU AI Act Aug 2026, CA/CO state laws, Explainable AI demand; compliance as product feature
+- [[concepts/Physical AI]] — AI moving to robots, autonomous vehicles, smart machines; NVIDIA Isaac GR00T, Alpamayo, Sora-to-robotics pivot
 
 ## Comparisons
 

@@ -185,7 +185,22 @@ _Chronological record of ingests, queries, and lint passes._
 - `concepts/AI Coding Tools` — competitive landscape, terminal agents vs AI-native IDEs, vibe coding
 
 **Key connection:** The coding tools landscape directly demonstrates the thesis from Raschka's coding agent article — the harness matters as much as the model. Claude Code's dominance (80.8% SWE-bench, $2.5B/yr) validates the 6-component framework. n8n applies the same agent loop pattern to business workflow automation.
+
+## [2026-04-15] ingest | AI Technology Trends 2026: Key Developments You Need to Know
+
+**Source:** BuildEZ Team (2026-04-14)
+
+**Pages created (5):**
+- `sources/S — AI Technology Trends 2026 Key Developments` — source summary covering the trillion-dollar pivot, agentic AI breakthrough, multimodal integration, physical AI, and regulation wave
+- `concepts/Inference Economics` — the 2026 shift from training costs to serving costs; the frame that unifies AI OS, MoE adoption, Sora shutdown
+- `concepts/AI Regulation` — EU AI Act, CA/CO laws, XAI demand; compliance as product feature
+- `concepts/Physical AI` — AI in robots, autonomous vehicles, smart machines
+- `entities/NVIDIA` — finally fills one of the longest-unresolved wikilinks; covers Isaac GR00T, Alpamayo, partnerships, and the Huawei challenge to training monopoly
+
+**Key findings:** (1) Global AI spending projected at $2.52T in 2026 (+44% YoY per Gartner), driven almost entirely by inference/deployment not training. (2) "Inference Economics" is the unifying frame — explains MoE dominance, AI OS stack, Sora shutdown, pricing collapse. (3) Agent success on real-world tasks jumped from 20% (2025) to 77.3% (April 2026) per Terminal-Bench — a staggering 12-month delta. (4) 2026 is the enforcement year for AI regulation — EU AI Act Aug 2, CA laws Jan 1, CO law June 30. XAI demand rising. (5) Physical AI is the next frontier — Sora shutdown redirected resources to robotics; NVIDIA GTC 2026 dominated by agentic deployments and physical AI. (6) "Great Divergence" — manufacturing/logistics prioritize AI to solve labor gaps; content sectors face "Crisis of Distinctiveness."
 - **2026-04-13 19:14 UTC** — query: 'Where are my gaps?' — 0 sources, filed=queries/where-are-my-gaps.md
 - **2026-04-13 19:15 UTC** — query: 'What are the best AI   tools for coding?' — 0 sources, filed=queries/what-are-the-best-ai-tools-for-coding.md
 - **2026-04-13 21:47 UTC** — query: 'Where are my gaps?' — 4 sources, filed=queries/where-are-my-gaps.md
 - **2026-04-15 19:17 UTC** — query: 'what projects are opensource?' — 5 sources, filed=queries/what-projects-are-opensource.md
+- **2026-04-22 22:16 UTC** — query: 'OpportunityScan' — 0 sources, filed=queries/opportunityscan.md
+- **2026-04-22 22:16 UTC** — query: 'Opportunity' — 5 sources, filed=queries/opportunity.md
