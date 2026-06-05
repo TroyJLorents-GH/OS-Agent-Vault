@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fdee315ad60b8f03",
+        "id": "32d08bacbe9dea69",
         "type": "tabs",
         "children": [
           {
-            "id": "9e67a924c264b6d6",
+            "id": "c9f41c44987e75a4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "raw/Harness, Scaffold, and the AI Agent Terms Worth Getting Right.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right"
             }
           }
         ]
@@ -37,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,43 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "9e67a924c264b6d6",
+  "active": "edde5e2da3cdbeea",
   "lastOpenFiles": [
-    "queries/opportunity.md",
-    "queries/opportunityscan.md",
-    "log.md",
-    "index.md",
-    "CLAUDE.md",
-    "wiki/sources/S — AI Technology Trends 2026 Key Developments.md",
-    "raw/AI Technology Trends 2026 Key Developments You Need to Know.md",
-    "wiki/entities/NVIDIA.md",
-    "wiki/concepts/Physical AI.md",
-    "wiki/concepts/AI Regulation.md",
-    "wiki/concepts/Inference Economics.md",
-    "queries/what-projects-are-opensource.md",
-    "raw/Best AI Tools 2026 100+ Reviewed & Rated.md",
-    "queries/what-are-the-best-ai-tools-for-coding.md",
-    "queries/where-are-my-gaps.md",
-    "wiki/index.md.tmp.92708.1776107418801",
-    "wiki/concepts/AI Coding Tools.md",
-    "wiki/entities/Runway.md",
-    "wiki/entities/Runway.md.tmp.92708.1776107407005",
-    "wiki/entities/ElevenLabs.md",
-    "wiki/entities/Midjourney.md",
-    "wiki/entities/n8n.md",
-    "wiki/entities/Perplexity.md",
-    "wiki/entities/Cursor.md",
-    "wiki/index.md",
-    "wiki/sources/S — Best AI Tools 2026.md",
-    "raw/Best AI Tools 2026 100+ Reviewed & Rated.md.tmp.92708.1776102869477",
-    "wiki/log.md.tmp.92708.1776099421389",
-    "wiki/concepts/Open-Source AI.md",
-    "wiki/sources/S — Open-Source AI Landscape April 2026.md",
-    "wiki/log.md.tmp.92708.1775949098812",
-    "wiki/index.md.tmp.113172.1775937714124",
-    "wiki/entities/claudeai.md.tmp.113172.1775934685602",
-    "wiki/personal",
-    "wiki/projects",
-    "wiki/business"
+    "AI News Archive/2026/06/2026-06-05.md",
+    "AI News Archive/data/2026-06-05_14-02-19_run-604393ed.json",
+    "wiki/log.md.tmp.72692.468db545fb79",
+    "wiki/overview.md.tmp.72692.0d7bd19c5297",
+    "wiki/entities/google.md.tmp.72692.ecd93501153e",
+    "wiki/entities/google.md.tmp.72692.1745403ebaee",
+    "wiki/sources/S — Gemini 3.2 Flash Before Google IO 2026.md.tmp.72692.8a2775881093",
+    "wiki/entities/Gemini.md.tmp.72692.eac93eca9a82",
+    "wiki/entities/Gemini.md.tmp.72692.e910a3e47fde",
+    "wiki/sources/S — Top Tech News May 15 2026.md.tmp.72692.964175359daa",
+    "wiki/sources/S — Top Tech News May 15 2026.md.tmp.72692.1c73b6f7b26a",
+    "wiki/concepts/QLoRA.md",
+    "wiki/concepts/LoRA.md",
+    "wiki/concepts/scaling laws.md",
+    "wiki/concepts/alignment.md",
+    "wiki/overview.md",
+    "AI News Archive/2026/06/2026-06-04.md",
+    "wiki/projects/agent-os.md",
+    "wiki/entities/Gemma.md",
+    "wiki/concepts/AI Workforce.md",
+    "wiki/concepts/Context Engineering.md",
+    "wiki/concepts/Agent Harness and Scaffolding.md",
+    "wiki/entities/Henry.md",
+    "wiki/entities/Gemini.md",
+    "wiki/sources/S — Henry AI Worker Enterprise Predictions 2026.md",
+    "wiki/sources/S — Harness Scaffold and Agent Terms.md",
+    "wiki/sources/S — Gemini 3.2 Flash Before Google IO 2026.md",
+    "AI News Archive/2026/06/2026-06-03.md",
+    "AI News Archive/2026/06/2026-06-02.md",
+    "AI News Archive/2026/06/2026-06-01.md",
+    "AI News Archive/2026/05/2026-05-31.md",
+    "AI News Archive/2026/05/2026-05-30.md",
+    "raw/Henry — The AI Worker that does real IT work.md",
+    "raw/Harness, Scaffold, and the AI Agent Terms Worth Getting Right 1.md",
+    "AI News Archive/2026/05/2026-05-29.md",
+    "AI News Archive/2026/05/2026-05-28.md"
   ]
 }

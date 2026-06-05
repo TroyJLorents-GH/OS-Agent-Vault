@@ -2,6 +2,8 @@
 
 _Auto-maintained by the Knowledge Compiler._
 
+**Start here:** [[overview]] — high-level synthesis of the whole vault.
+
 ## Sources
 
 - [[sources/techcrunchcom-2026-04-07]] — Adobe launches Acrobat Spaces, a free AI-powered study tool for students (2026-04-07)
@@ -17,6 +19,11 @@ _Auto-maintained by the Knowledge Compiler._
 - [[sources/S — Open-Source AI Landscape April 2026]] — Complete ecosystem map: 6 model families, MoE dominance, Apache 2.0 liberation, selection framework, deployment economics (2026-04-03)
 - [[sources/S — Best AI Tools 2026]] — 100+ tools reviewed across chatbots, coding, image, video, audio, research, productivity; Claude Code most-loved, Sora shutdown (2026-03-27)
 - [[sources/S — AI Technology Trends 2026 Key Developments]] — $2.52T spending forecast, Inference Economics, agent success 20%→77.3%, EU/CA/CO regulation, physical AI pivot (2026-04-14)
+- [[sources/S — Keep Claude Working Toward a Goal]] — Claude Code `/goal` command sets a completion condition; evaluator-loop pattern with Haiku judge (2026-05-15)
+- [[sources/S — Top Tech News May 15 2026]] — Cerebras IPO ($95B), Nvidia $5.5T, Samsung strike, Musk v. OpenAI wraps, Mythos warfare comment, 71% data center opposition (2026-05-15)
+- [[sources/S — Gemini 3.2 Flash Before Google IO 2026]] — Pre-I/O leak: Flash-tier model matching 3.1 Pro on creative coding at ~1/6 cost; Liquid Glass UI; Gemma 4 (2026-05-18)
+- [[sources/S — Harness Scaffold and Agent Terms]] — HuggingFace agent glossary: Agent = Model + Harness; scaffold vs harness; RL training vocabulary (2026-05-24)
+- [[sources/S — Henry AI Worker Enterprise Predictions 2026]] — ai.work's 9 enterprise predictions: AI as workforce layer, system-of-action vs system-of-record (2026-05-28)
 
 ## Entities
 
@@ -46,6 +53,17 @@ _Auto-maintained by the Knowledge Compiler._
 - [[entities/ElevenLabs]] — Leading AI voice platform, indistinguishable from human speech
 - [[entities/Runway]] — Leading AI video generation, Gen-4.5 best temporal consistency
 - [[entities/NVIDIA]] — Essential AI infrastructure; Isaac GR00T, Alpamayo, Jetson Thor; pivoting hard to physical AI and robotics
+- [[entities/Claude Code]] — Anthropic's terminal coding agent; 80.8% SWE-bench, $2.5B/yr, ships `/goal` and Stop hooks
+- [[entities/OpenAI]] — GPT-5.4, ChatGPT, Codex; ~$25B annualized, ~$852B val; in Musk litigation and Apple friction
+- [[entities/Sam Altman]] — OpenAI CEO; named defendant in Musk v. OpenAI (May 2026)
+- [[entities/Elon Musk]] — Co-founder turned $150B litigant; seeking Altman/Brockman removal
+- [[entities/Cerebras]] — Wafer-scale chipmaker; May 2026 IPO at ~$95B close, first public Nvidia alternative
+- [[entities/Apple]] — Platform owner; Siri/ChatGPT friction with OpenAI; backs Google on EU AI access fight
+- [[entities/Samsung]] — Memory chip giant; 18-day strike (May 21) over AI-driven bonus disparity
+- [[entities/Microsoft]] — OpenAI partner named in Musk suit; Exchange zero-day + Windows 11/Edge hacked at Pwn2Own
+- [[entities/Gemini]] — Google's multimodal model family; Pro/Flash/Flash-Lite tiers; sub-quarterly Flash cadence
+- [[entities/Gemma]] — Google's open-weights family; Gemma 4 (31B dense + MoE + E2B/E4B edge), Apache 2.0
+- [[entities/Henry]] — ai.work's "AI worker" for IT; system-of-action agent across 5–15 enterprise systems
 
 ## Concepts
 
@@ -90,6 +108,17 @@ _Auto-maintained by the Knowledge Compiler._
 - [[concepts/Inference Economics]] — The 2026 shift from training costs to serving costs; drives MoE adoption, AI OS stack, pricing collapse
 - [[concepts/AI Regulation]] — EU AI Act Aug 2026, CA/CO state laws, Explainable AI demand; compliance as product feature
 - [[concepts/Physical AI]] — AI moving to robots, autonomous vehicles, smart machines; NVIDIA Isaac GR00T, Alpamayo, Sora-to-robotics pivot
+- [[concepts/Autonomous Agent Workflows]] — `/goal` vs `/loop` vs Stop hooks vs auto mode; evaluator-loop pattern with separate judge model
+- [[concepts/AI Data Center Backlash]] — 71% of US adults oppose local AI data centers; permit/trust bottleneck on capex pace
+- [[concepts/AI Capex Buildout]] — 2026 capital cycle treating AI infra as strategic infrastructure, not software multiples
+- [[concepts/AI in Warfare]] — Frontier AI in cyber ops; Pentagon names Anthropic Mythos as warfare-grade; dual-use tension
+- [[concepts/Agent Harness and Scaffolding]] — Field vocabulary: Agent = Model + Harness; scaffold vs harness; orchestrator, skills, sub-agents; RL terms
+- [[concepts/Context Engineering]] — Designing what enters the context window each step; short/long-term memory; training vs inference cost
+- [[concepts/AI Workforce]] — Agents as an enterprise labor layer; system-of-action vs system-of-record; orchestration as new middleware
+- [[concepts/alignment]] — Matching AI behavior to human intent; Anthropic's throughline; sycophancy/overrestriction as in-the-wild failures
+- [[concepts/scaling laws]] — Predictable capability gains from compute/params/data; qualified in 2026 by architecture + inference-time scaling
+- [[concepts/LoRA]] — Low-rank adapter fine-tuning; swappable/mergeable adapters from one frozen base
+- [[concepts/QLoRA]] — 4-bit-base LoRA; fine-tuning large models on a single consumer GPU
 
 ## Comparisons
 
@@ -105,7 +134,7 @@ _Auto-maintained by the Knowledge Compiler._
 
 ## Projects
 
-*No project pages yet.*
+- [[projects/agent-os]] — OS-style layer for AI agents; scaffold page (needs Troy's spec/scope)
 
 ## Personal
 

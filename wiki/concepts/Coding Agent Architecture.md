@@ -2,8 +2,8 @@
 title: "Coding Agent Architecture"
 type: concept
 created: 2026-04-10
-updated: 2026-04-10
-sources: ["S — Components of A Coding Agent"]
+updated: 2026-06-03
+sources: ["S — Components of A Coding Agent", "Harness, Scaffold, and the AI Agent Terms Worth Getting Right"]
 tags: [agents, code-gen, llm, architecture, technique, "2026"]
 ---
 
@@ -24,6 +24,8 @@ The relationship between components follows a layered model:
 3. **Agent Harness** — The software scaffold that helps us use the model. Manages context, tools, prompts, state, and control flow. This is where most of the practical capability difference comes from.
 
 The analogy: the LLM is the engine, the reasoning model is a beefed-up engine, and the agent harness is the vehicle that lets us drive it. The harness turns raw model capability into usable software engineering performance.
+
+**Vocabulary note:** in the field's shared terms (see [[Agent Harness and Scaffolding]]), the "agent harness" here splits into **scaffold** (system prompt, tool descriptions, response parsing — what the model works from) and **harness** proper (the loop that calls the model, handles tool calls, decides when to stop). Products like [[Claude Code]] call the whole thing "the harness." A coding agent is the textbook case of **Agent = Model + Harness**.
 
 ## The 6 Components
 
@@ -66,6 +68,8 @@ This is "boring" infrastructure work, but it directly determines how capable the
 ## Connections
 
 - [[S — Components of A Coding Agent]] — The primary source for this framework
+- [[Agent Harness and Scaffolding]] — Shared field vocabulary: model vs scaffold vs harness, eval harness, RL training terms
+- [[Context Engineering]] — The context-management discipline behind components 2, 4, 5
 - [[Sebastian Raschka]] — Author of the source article and Mini Coding Agent reference implementation
 - [[Prompt Caching]] — The stable-prefix caching technique (component 2)
 - [[Transformer Architecture]] — The foundational model architecture these harnesses wrap

@@ -2,8 +2,8 @@
 title: AI and Economic Displacement
 type: concept
 created: 2026-04-09
-updated: 2026-04-09
-sources: ["anthropic-81k-interviews-2026-03-18"]
+updated: 2026-06-03
+sources: ["anthropic-81k-interviews-2026-03-18", "Henry — The AI Worker that does real IT work"]
 tags: [policy, prediction, opinion, "2026"]
 ---
 
@@ -42,4 +42,21 @@ The correlation is weakest because the populations affected are different:
 - Products that create new economic capability (not just automate existing work) may generate less displacement backlash
 - [[Anthropic]] is designing further research and updating their economic policy thinking based on these findings
 
-(Source: [[anthropic-81k-interviews-2026-03-18]])
+## The "Reshape, Not Reduce" Counter-Narrative
+
+The enterprise/vendor framing inverts the emotional valence. In the [[AI Workforce]] thesis (Source: [[S — Henry AI Worker Enterprise Predictions 2026]]), 2026 is framed as the year **jobs reshape rather than reduce**:
+
+- Skills are **redistributed**: AI takes routine/structured work (approvals, triage, provisioning, data extraction); humans keep contextual/creative/cross-functional work (architecture, exception handling, policy, governance).
+- Departments **elevate** rather than shrink — IT becomes the orchestrator of an AI workforce; Finance becomes more analytical.
+- Labor and technology budgets **merge** — CFOs reallocate "trapped labor costs" into automation/AI-ops, growing capacity without headcount.
+
+**The tension (flagged on both pages):** this optimistic "jobs elevate" story is exactly the empowerment side of the light/shade split — and it is *sold by vendors who profit from adoption*. It does not dissolve the 81K finding that job/economy fear is the strongest predictor of negative sentiment; it just narrates the same structural shift from the orchestrator's chair. Whether you experience the AI workforce as empowerment or displacement depends on which bucket your skills fall into. The "merge labor + tech budgets" mechanism is, financially, the displacement pathway described in plain accounting terms.
+
+## Connections
+
+- [[AI Workforce]] — the enterprise framing of agents as a labor layer
+- [[Agentic AI]] — the capability enabling redistribution
+- [[AI as equalizer]] — the empowerment counterweight
+- [[light and shade of AI]] — empowerment/displacement as the least-entangled (most divisive) tension
+
+(Source: [[anthropic-81k-interviews-2026-03-18]], [[S — Henry AI Worker Enterprise Predictions 2026]])

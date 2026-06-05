@@ -2,8 +2,8 @@
 title: NVIDIA
 type: entity
 created: 2026-04-15
-updated: 2026-04-15
-sources: ["S — AI Technology Trends 2026 Key Developments", "S — Developing a Standard AI OS", "S — The Big LLM Architecture Comparison"]
+updated: 2026-05-16
+sources: ["S — AI Technology Trends 2026 Key Developments", "S — Developing a Standard AI OS", "S — The Big LLM Architecture Comparison", "S — Top Tech News May 15 2026"]
 tags: [nvidia, compute, robotics, product, "2026"]
 ---
 
@@ -42,6 +42,12 @@ NVIDIA's moat in **inference** (CUDA ecosystem, optimized kernels, vLLM integrat
 ### Pivot to Physical AI
 
 NVIDIA is pivoting hard toward **physical AI and robotics** as [[Inference Economics]] pressures pure-LLM GPU margins. Isaac GR00T, Alpamayo, Jetson Thor, Cosmos, and Isaac Lab-Arena are all bets that **[[Physical AI]] becomes the next trillion-dollar compute market** — and that NVIDIA can dominate it the way it dominated LLM training.
+
+## May 2026 Datapoints
+
+- **Market cap hit ~$5.5T intraday** on May 15, 2026 — pushed major indexes to record highs (Source: [[sources/S — Top Tech News May 15 2026]])
+- **First public-market competitor:** [[entities/Cerebras]] IPO closed +68% / ~$95B cap on the same day — first pure-play public bet on Nvidia alternatives
+- **EU Android AI fight:** EU proposals would force Android to give third-party AI services parity access with Gemini; [[entities/Apple]] backed Google's pushback. Indirect read on Nvidia: software/distribution layer is increasingly contested even as silicon position holds. See [[AI Regulation]].
 
 ## Connections
 

@@ -2,8 +2,8 @@
 title: "Agentic AI"
 type: concept
 created: 2026-04-11
-updated: 2026-04-11
-sources: ["S — AI Trending April 2026", "S — Components of A Coding Agent"]
+updated: 2026-06-03
+sources: ["S — AI Trending April 2026", "S — Components of A Coding Agent", "Harness, Scaffold, and the AI Agent Terms Worth Getting Right", "Henry — The AI Worker that does real IT work"]
 tags: [agents, llm, technique, product, prediction, "2026"]
 ---
 
@@ -29,6 +29,10 @@ The core shift: from **"AI that answers"** to **"AI that gets things done."**
 - **[[Anthropic]] Conway** — always-on agent for continuous autonomous task execution
 - **Salesforce Slackbot** — agentic capabilities embedded in workplace messaging
 - **Claude Code / Codex** — coding agents that operate as full software engineering partners (see [[Coding Agent Architecture]])
+
+## What Is an Agent? (precise definition)
+
+The community shorthand: **Agent = Model + Harness.** "If you're not the model, you're the harness." An agent is a model plus everything around it that lets it *act*, not just respond — turning raw text generation into a loop that takes in information, decides what to do, and acts on results (RL roots: observation → action → new observation). Crucially, **model ≠ harness ≠ product**: two products on the same model feel different because their harnesses make different choices. Full vocabulary in [[Agent Harness and Scaffolding]] (Source: [[S — Harness Scaffold and Agent Terms]]).
 
 ## Agent Architecture
 
@@ -59,6 +63,8 @@ The insight: **"A lot of apparent 'model quality' is really context quality."** 
 
 ## Connections
 
+- [[Agent Harness and Scaffolding]] — precise vocabulary: model vs scaffold vs harness, orchestrator, skills, sub-agents
+- [[AI Workforce]] — enterprise deployment of agents as a labor layer (orchestration, system-of-action)
 - [[Coding Agent Architecture]] — specific architecture pattern for coding agents, a subset of agentic AI
 - [[AI Operating System]] — agentic AI as a building block toward a full AI OS layer
 - [[AI as equalizer]] — agentic AI could democratize capabilities previously requiring large teams

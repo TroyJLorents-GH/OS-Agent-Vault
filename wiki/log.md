@@ -204,3 +204,153 @@ _Chronological record of ingests, queries, and lint passes._
 - **2026-04-15 19:17 UTC** — query: 'what projects are opensource?' — 5 sources, filed=queries/what-projects-are-opensource.md
 - **2026-04-22 22:16 UTC** — query: 'OpportunityScan' — 0 sources, filed=queries/opportunityscan.md
 - **2026-04-22 22:16 UTC** — query: 'Opportunity' — 5 sources, filed=queries/opportunity.md
+
+## [2026-05-16] ingest | Keep Claude Working Toward a Goal
+
+**Source:** Anthropic Claude Code docs — code.claude.com/docs/en/goal (raw dated 2026-05-15)
+
+**Pages created (3):**
+- `sources/S — Keep Claude Working Toward a Goal` — full source summary, architecture, conditions, gotchas
+- `entities/Claude Code` — Anthropic's terminal coding agent, 80.8% SWE-bench, $2.5B/yr
+- `concepts/Autonomous Agent Workflows` — `/goal` vs `/loop` vs Stop hooks vs auto mode; evaluator-loop pattern
+
+**Pages updated (1):**
+- `entities/anthropic` — added Claude Code section, business numbers, Mythos cross-reference
+
+**Key finding:** `/goal` introduces the **evaluator-loop pattern** — a separate small fast model (Haiku) judges each turn's completion against a user-set condition. The evaluator cannot call tools, only judges conversation contents, which forces the worker model to demonstrate completion in the transcript. Mechanically `/goal` is a session-scoped prompt-based Stop hook. Open question: does the evaluator inherit [[sycophancy]] from training? Empirical test worth running.
+
+## [2026-05-16] ingest | Top Tech News May 15, 2026
+
+**Source:** techstartups.com daily roundup by Nickie Louise (2026-05-15)
+
+**Pages created (10):**
+- `sources/S — Top Tech News May 15 2026` — synthesized roundup of 17 stories across 5 themes
+- `entities/Cerebras` — wafer-scale chipmaker, May 15 IPO at ~$95B close
+- `entities/OpenAI` — overdue entity; GPT-5.4, Codex, Musk litigation
+- `entities/Apple` — Siri/ChatGPT friction; backs Google in EU fight
+- `entities/Sam Altman` — OpenAI CEO; named in Musk suit
+- `entities/Elon Musk` — $150B litigant against OpenAI
+- `entities/Samsung` — 45K-worker strike over AI bonus disparity
+- `entities/Microsoft` — OpenAI partner named in Musk suit; Exchange zero-day
+- `concepts/AI Data Center Backlash` — Gallup 71% opposition; new constraint on capex pace
+- `concepts/AI Capex Buildout` — 2026 strategic-infra capital cycle
+- `concepts/AI in Warfare` — Pentagon Mythos comment; dual-use tension with Anthropic safety framing
+
+**Pages updated (2):**
+- `entities/NVIDIA` — $5.5T intraday cap, Cerebras as first public competitor, EU Android fight
+- `entities/anthropic` — added Mythos section with warfare framing tension
+
+**Key findings:**
+1. **AI capex looks like infrastructure, not software** — Cerebras IPO ($95B/+68%), Nvidia $5.5T cap, Argentum $2.5B, Kioxia $8.2B Q1 — public markets pricing pure-play AI chip + data center bets at infrastructure multiples
+2. **Supply-side fragility is real** — Samsung 18-day strike (May 21) over 607% memory-division bonuses vs 50-100% logic threatens $14-21B operating profit and global memory supply for AI data centers
+3. **71% of Americans oppose local AI data centers** (48% strongly) — first concrete signal that local trust/permitting is a binding constraint on buildout
+4. **Mythos framing tension** — Anthropic positions Mythos under safety; Pentagon cyber official names it as warfare-grade. Same model, opposing narratives. Will shape regulation and commercial positioning
+5. **Musk v. OpenAI closes** — $150B damages claim, Altman accused of lying; jury deliberates Monday. Could force restructuring before $1T IPO
+6. **OpenAI vs Apple cracking** — OpenAI exploring legal options over Siri partnership; the platform-vs-model-provider fight is now litigation-grade
+7. **Career ladder compression** — Class of 2026 entering a labor market where entry-level tech roles are automated. Troy's career strategy implication: leverage AI directly rather than wait for traditional onramps
+
+## [2026-06-03] ingest | Gemini 3.2 Flash: What We Know Before Google I/O 2026
+
+**Source:** Build Fast with AI by Satvik Paramkusam (2026-05-18) — pre-release leak analysis
+
+**Pages created (1):**
+- `sources/S — Gemini 3.2 Flash Before Google IO 2026` — full source summary
+- `entities/Gemini` — Google's model family (Pro/Flash/Flash-Lite), 2026 lineage table
+
+**Pages updated (1):**
+- `entities/google` — major expansion: AI position, Gemini cadence, I/O 2026 lineup, regulatory
+
+**Key findings:**
+1. **Flash eating Pro** — leaked Gemini 3.2 Flash matched/exceeded 3.1 Pro on creative coding (SVG, Three.js) at ~1/6 input cost in blind Arena evals. If real, compresses the whole tier ladder
+2. **Pure Inference Economics** — leaked $0.25/$2.00 pricing tuned for query-heavy/response-moderate workloads (search, assistant). Cheap high-volume tier optimized for what dominates real usage
+3. **Sub-quarterly cadence** — 3.0 Flash (Dec 25) → 3.1 Flash-Lite (Mar) → 3.2 Flash (May). Flash treated as continuous software product. Lesson: version-pinned, provider-agnostic infra
+4. **Caveat** — Arena evals skewed to creative coding; page written pre-I/O. Needs a post-I/O reconciliation pass to mark confirmed vs wrong
+
+## [2026-06-03] ingest | Harness, Scaffold, and the AI Agent Terms Worth Getting Right
+
+**Source:** Hugging Face Blog by Sergio Paniego & Aritra Roy Gosthipaty (2026-05-24) — glossary
+
+**Pages created (2):**
+- `sources/S — Harness Scaffold and Agent Terms` — full source summary
+- `concepts/Agent Harness and Scaffolding` — model vs scaffold vs harness; orchestrator/skills/sub-agents; RL training terms
+- `concepts/Context Engineering` — context-window design; short/long-term memory; training vs inference cost asymmetry
+
+**Pages updated (3):**
+- `concepts/Agentic AI` — added precise "Agent = Model + Harness" definition section
+- `concepts/Coding Agent Architecture` — vocabulary note splitting scaffold vs harness
+- `entities/Claude Code` — "agentic harness around Claude" canonical example
+
+**Key findings:**
+1. **Agent = Model + Harness** — the one equation. model ≠ harness ≠ product; two products on the same model differ by harness choices
+2. **Scaffold vs harness** — scaffold = what the model works from (prompt, tools, parsing, memory); harness = the execution loop (calls model, handles tools, decides when to stop). Distinction matters most in training pipelines
+3. **Vocabulary backbone** — grounds everything agent-related already in the wiki; cleanly separates capabilities the wiki had been blurring
+4. **RL training loop** — environment → trainer → reward → updated policy; rollout/trajectory, verifiable vs learned reward, rubrics
+
+## [2026-06-03] ingest | Henry: The AI Worker That Does Real IT Work (9 Enterprise Predictions)
+
+**Source:** ai.work blog by Maor Ezer, CEO (2026-05-28) — vendor thesis
+
+**Pages created (2):**
+- `sources/S — Henry AI Worker Enterprise Predictions 2026` — full source summary
+- `entities/Henry` — ai.work's AI IT worker product
+- `concepts/AI Workforce` — agents as enterprise labor layer; system-of-action vs system-of-record
+
+**Pages updated (1):**
+- `concepts/AI and Economic Displacement` — added "reshape not reduce" counter-narrative + tension
+
+**Key findings:**
+1. **AI as workforce, not feature** — "AI stops being a tool and becomes the operating model." Agents behave like employees across 5–15 systems per workflow
+2. **System of action vs system of record** — clean architectural split: records (ERP/CRM/ITSM) stay source of truth; AI executes across them. Mirrors compute/storage, microservices/monolith
+3. **Labor + tech budgets merge** — CFOs ask "humans vs agents?" financially. The displacement pathway stated in plain accounting terms
+4. **Tension flagged** — vendor's optimistic "jobs reshape not reduce" sits against 81K data where job fear was the strongest negative-sentiment predictor. Same trend, opposite valence — noted on both pages
+5. **Orchestration as new middleware** — dozens of agents per enterprise → demand for a horizontal governance/identity/logging/rollback layer
+
+## [2026-06-03] lint | Health check (post 3-source ingest; first since 2026-04-11)
+
+**Scope:** ~95 wiki pages. Triggered after Gemini/Agent-glossary/Henry ingest (+ prior May 16 batch).
+
+**Issues found + fixes applied:**
+1. **Naming inconsistency (FIXED)** — new pages used `[[Agent OS]]`; vault convention is lowercase `[[agent-os]]` (used by 6 existing pages). Standardized refs in `Henry`, `AI Workforce`.
+2. **High-reference missing page: Gemma (FIXED)** — referenced 15+ times (Open-Source AI, architecture pages, Gemini, google, NVIDIA) with no entity page. Created `entities/Gemma`.
+3. **High-reference missing page: agent-os (FIXED)** — referenced from 6+ pages, no page. Created scaffold `projects/agent-os` (first Projects entry); flagged for Troy's spec.
+4. **Data discrepancy (RECONCILED)** — Gemini 3.2 blog cites Gemma 4 "27B 4-bit"; Open-Source Landscape lists 31B dense. Noted on `Gemma` page; 31B treated canonical pending I/O notes.
+
+**No orphans** found in the new entity/concept cluster — all inbound-linked.
+
+**Open gaps (NOT auto-fixed — need Troy or web lookup):**
+- **`overview.md` missing entirely** — CLAUDE.md specifies a high-level synthesis page; never created. ~95 pages now exist with no top-level synthesis. Biggest structural gap.
+- **Unresolved project links:** `job-nexus`, `peptide-app`, `automateflows` — referenced across many pages, no pages (same situation agent-os was in).
+- **Unresolved concept/entity links:** `alignment`, `Anthropic Interviewer`, `Claude.ai`, `LoRA`, `QLoRA`, `scaling laws`, Anthropic `Conway` — referenced but no pages.
+- **Stale-pending (time-sensitive, need refresh):** Musk v. OpenAI verdict (was "jury deliberates Monday" ~May 18 — likely decided by now); Samsung 18-day strike (started May 21 — resolution status?); Gemini 3.2 Flash page is pre-I/O (May 18) and needs post-I/O reconciliation (I/O was May 19–20).
+
+## [2026-06-04] maintain | overview.md + gap-fill (lint follow-up)
+
+Acted on the 2026-06-03 lint's open gaps.
+
+**Pages created (5):**
+- `overview.md` — **the missing top-level synthesis** (8 themes: model convergence → harness era → inference economics/capex → AI workforce → human dimension/81K → safety/governance → infra/memory → Troy's projects). Resolves the biggest structural gap. Linked from `index` top.
+- `concepts/alignment` — resolves a long-standing unresolved link; ties Anthropic mission to in-the-wild sycophancy/overrestriction and agent-era stakes
+- `concepts/scaling laws` — predictability + compute-optimal, then 2026 qualifications (architecture gains, inference-time scaling, data wall, economics flip)
+- `concepts/LoRA` — extends (not duplicates) `Fine-Tuning`: adapter mechanics, rank, multi-adapter serving, merge-vs-keep
+- `concepts/QLoRA` — 4-bit-base extension; training-memory quantization vs inference quantization distinction
+
+**Index updated:** added `[[overview]]` pointer at top; 4 new concepts listed.
+
+**Note on method:** LoRA/QLoRA were already substantively covered inside `Fine-Tuning`; created compact dedicated pages that extend rather than duplicate (per "prefer updating / one-thing-per-page / compound knowledge"). Did NOT auto-create `job-nexus`/`peptide-app`/`automateflows` (need Troy's specs).
+
+## [2026-06-04] maintain | Web reconciliation of 3 stale-pending items
+
+Resolved the lint's time-sensitive items via live web search (US web, current as of June 2026).
+
+**1. Gemini 3.2 Flash leak → shipped as Gemini 3.5 Flash (I/O, May 19).** The leak's *thesis* held ("Flash beats Pro") but the *version number was wrong* (3.2 → 3.5). Real benchmarks: Terminal-Bench 2.1 76.2%, GDPval-AA 1656 Elo, MCP Atlas 83.6%, CharXiv 84.2%; ~4× faster output; GA via Google Antigravity + Gemini API; 3.5 Pro in testing (~June). Unconfirmed: $0.25/$2.00 pricing, Liquid Glass UI.
+- Updated: `entities/Gemini` (lineage + reconciliation section), `sources/S — Gemini 3.2 Flash Before Google IO 2026` (post-I/O callout), `entities/google` (what-shipped).
+
+**2. Musk v. OpenAI → dismissed (May 18).** Unanimous jury, <2 hrs, on a 3-year statute of limitations; merits never reached. Altman/Brockman/OpenAI cleared; Musk appealing. Clears restructuring path toward rumored $1T IPO.
+- Updated: `entities/OpenAI`, `entities/Elon Musk`, `entities/Sam Altman`, `sources/S — Top Tech News May 15 2026`.
+
+**3. Samsung strike → averted (May 20).** Government-mediated wage deal, ~74% union approval, ended a 5-month dispute; some chip bonuses >~$340K. Supply risk contained; chip/non-chip pay gap persists.
+- Updated: `entities/Samsung`, `concepts/AI Capex Buildout`, `sources/S — Top Tech News May 15 2026`.
+
+**Also updated:** `overview.md` open-threads (3 items marked resolved; added Gemini 3.5 Pro GA + leak-calibration as new watch items).
+
+**Method note:** web facts cited inline as markdown links (not raw/ sources). Original predictions preserved with outcomes appended (per "note the evolution, don't silently overwrite"). The pre-I/O Gemini page is **kept** as a deliberate leak-vs-reality calibration record.
