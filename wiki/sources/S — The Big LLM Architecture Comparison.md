@@ -4,7 +4,7 @@ type: source
 created: 2026-04-10
 updated: 2026-04-10
 sources: ["The Big LLM Architecture Comparison.md"]
-tags: [llm, architecture, compute, training, inference, "2025", "2026"]
+tags: [llm, architecture, compute, training, inference, y2025, y2026]
 ---
 
 # S — The Big LLM Architecture Comparison

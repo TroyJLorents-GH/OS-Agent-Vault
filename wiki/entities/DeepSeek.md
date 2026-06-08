@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-10
 updated: 2026-04-10
 sources: ["S — The Big LLM Architecture Comparison"]
-tags: [openai, llm, architecture, compute, training, inference, "2025", "2026"]
+tags: [openai, llm, architecture, compute, training, inference, y2025, y2026]
 ---
 
 # DeepSeek

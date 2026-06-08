@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 sources: ["S — The Big LLM Architecture Comparison"]
-tags: [architecture, llm, training, inference, "2025", "2026"]
+tags: [architecture, llm, training, inference, y2025, y2026]
 ---
 
 # Transformer Architecture

@@ -4,7 +4,7 @@ type: entity
 created: 2026-06-03
 updated: 2026-06-03
 sources: ["Henry — The AI Worker that does real IT work"]
-tags: [agents, product, agent-os, "2026"]
+tags: [agents, product, agent-os, y2026]
 ---
 
 # Henry (ai.work)

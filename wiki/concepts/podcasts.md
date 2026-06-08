@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-07
 updated: 2026-04-11
 sources: ["techcrunchcom-2026-04-07"]
-tags: [education, technique, product, llm, multimodal, "2026"]
+tags: [education, technique, product, llm, multimodal, y2026]
 ---
 
 # podcasts

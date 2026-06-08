@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-10
 updated: 2026-04-10
 sources: ["S — Developing a Standard AI OS"]
-tags: [person, red-hat, strategy, "2025"]
+tags: [person, red-hat, strategy, y2025]
 ---
 
 # Brian Stevens

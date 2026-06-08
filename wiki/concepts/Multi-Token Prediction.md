@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 sources: ["S — The Big LLM Architecture Comparison"]
-tags: [architecture, technique, training, inference, llm, "2025"]
+tags: [architecture, technique, training, inference, llm, y2025]
 ---
 
 # Multi-Token Prediction (MTP)

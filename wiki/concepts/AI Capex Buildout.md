@@ -4,7 +4,7 @@ type: concept
 created: 2026-05-16
 updated: 2026-06-04
 sources: ["S — Top Tech News May 15 2026", "S — AI Technology Trends 2026 Key Developments"]
-tags: [compute, strategy, "2026"]
+tags: [compute, strategy, y2026]
 ---
 
 # AI Capex Buildout

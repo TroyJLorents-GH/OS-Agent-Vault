@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-07
 updated: 2026-06-04
 sources: ["techcrunchcom-2026-04-07", "Gemini 3.2 Flash What We Know Before Google IO 2026"]
-tags: [google-deepmind, llm, multimodal, product, "2026"]
+tags: [google-deepmind, llm, multimodal, product, y2026]
 ---
 
 # Google

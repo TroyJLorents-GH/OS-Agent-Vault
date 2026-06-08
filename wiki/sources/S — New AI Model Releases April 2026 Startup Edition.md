@@ -16,7 +16,7 @@ tags:
   - anthropic
   - google-deepmind
   - xai
-  - "2026"
+  - y2026
 ---
 
 # S — New AI Model Releases April 2026 Startup Edition

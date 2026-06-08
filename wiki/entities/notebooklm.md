@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-07
 updated: 2026-04-11
 sources: ["techcrunchcom-2026-04-07"]
-tags: [product, google-deepmind, multimodal, agents, "2026"]
+tags: [product, google-deepmind, multimodal, agents, y2026]
 ---
 
 # NotebookLM

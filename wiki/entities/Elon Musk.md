@@ -4,7 +4,7 @@ type: entity
 created: 2026-05-16
 updated: 2026-06-04
 sources: ["S — Top Tech News May 15 2026"]
-tags: [xai, openai, "2026"]
+tags: [xai, openai, y2026]
 ---
 
 # Elon Musk

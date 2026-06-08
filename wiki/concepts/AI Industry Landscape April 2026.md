@@ -11,7 +11,7 @@ tags:
   - product
   - strategy
   - prediction
-  - "2026"
+  - y2026
 ---
 
 # AI Industry Landscape April 2026

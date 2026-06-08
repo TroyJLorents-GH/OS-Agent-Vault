@@ -4,7 +4,7 @@ type: overview
 created: 2026-06-04
 updated: 2026-06-04
 sources: []
-tags: [overview, llm, agents, compute, "2026"]
+tags: [overview, llm, agents, compute, y2026]
 ---
 
 # Wiki Overview
@@ -75,7 +75,9 @@ Anthropic's 80K-person study ([[S — anthropic-81k-interviews-2026-03-18|81K st
 ## 8. Troy's projects (applied lens)
 
 - [[agent-os]] — OS-style layer for agents (scaffold; needs spec). Closest external analog: [[AI Workforce]]/[[Henry]].
-- `job-nexus`, `peptide-app`, `automateflows` — domain applications; each intersects [[domain-specific-ai]], [[AI as equalizer]], [[n8n]].
+- [[job-nexus]] — resume↔JD matching (shipped); Azure AI Search semantic matching → [[domain-specific-ai]] + [[AI as equalizer]] + [[retrieval-augmented-generation]].
+- [[peptide-app]] — health dosing tracker/scheduler (deployed); least AI-centric, candidate [[domain-specific-ai]] health layer.
+- [[automateflows]] — Troy's **company** selling AI/automation implementation (deployed); the services edge of [[AI Workforce]], likely [[n8n]]-delivered. Closest analog: [[Henry]] at the SMB end.
 
 ## Open threads to watch
 

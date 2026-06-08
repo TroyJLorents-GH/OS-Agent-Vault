@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-08
 updated: 2026-04-08
 sources: ["redhat-slms-scientific-research-2026-03-30", "S — MemPalace"]
-tags: [technique, inference, llm, rag, "2026"]
+tags: [technique, inference, llm, rag, y2026]
 ---
 
 # Retrieval-Augmented Generation (RAG)

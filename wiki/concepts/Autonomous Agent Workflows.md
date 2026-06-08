@@ -4,7 +4,7 @@ type: concept
 created: 2026-05-16
 updated: 2026-05-16
 sources: ["S — Keep Claude Working Toward a Goal"]
-tags: [agents, claude-code, technique, "2026"]
+tags: [agents, claude-code, technique, y2026]
 ---
 
 # Autonomous Agent Workflows

@@ -4,7 +4,7 @@ type: source
 created: 2026-05-16
 updated: 2026-06-04
 sources: ["Top Tech News Today, May 15, 2026.md"]
-tags: [news, llm, agents, compute, policy, "2026"]
+tags: [news, llm, agents, compute, policy, y2026]
 ---
 
 # Top Tech News — May 15, 2026

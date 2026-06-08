@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-09
 updated: 2026-04-11
 sources: ["anthropic-81k-interviews-2026-03-18"]
-tags: [anthropic, llm, product, alignment, "2026"]
+tags: [anthropic, llm, product, alignment, y2026]
 ---
 
 # Claude

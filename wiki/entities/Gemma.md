@@ -4,7 +4,7 @@ type: entity
 created: 2026-06-03
 updated: 2026-06-03
 sources: ["S — Open-Source AI Landscape April 2026", "S — The Big LLM Architecture Comparison", "Gemini 3.2 Flash What We Know Before Google IO 2026"]
-tags: [google-deepmind, llm, multimodal, open-source, product, "2026"]
+tags: [google-deepmind, llm, multimodal, open-source, product, y2026]
 ---
 
 # Gemma

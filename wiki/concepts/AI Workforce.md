@@ -4,7 +4,7 @@ type: concept
 created: 2026-06-03
 updated: 2026-06-03
 sources: ["Henry — The AI Worker that does real IT work", "S — AI Trending April 2026"]
-tags: [agents, product, prediction, strategy, policy, "2026"]
+tags: [agents, product, prediction, strategy, policy, y2026]
 ---
 
 # AI Workforce

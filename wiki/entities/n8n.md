@@ -9,7 +9,7 @@ tags:
   - product
   - agents
   - open-source
-  - "2026"
+  - y2026
 ---
 
 # n8n

@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 sources: ["S — The Big LLM Architecture Comparison"]
-tags: [architecture, llm, inference, compute, "2025"]
+tags: [architecture, llm, inference, compute, y2025]
 ---
 
 # Sliding Window Attention

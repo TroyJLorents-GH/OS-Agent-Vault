@@ -11,7 +11,7 @@ tags:
   - agents
   - llm
   - product
-  - "2026"
+  - y2026
 ---
 
 # AI Coding Tools

@@ -8,7 +8,7 @@ sources:
 tags:
   - product
   - multimodal
-  - "2026"
+  - y2026
 ---
 
 # Midjourney

@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-09
 updated: 2026-06-03
 sources: ["anthropic-81k-interviews-2026-03-18", "Henry — The AI Worker that does real IT work"]
-tags: [policy, prediction, opinion, "2026"]
+tags: [policy, prediction, opinion, y2026]
 ---
 
 # AI and Economic Displacement

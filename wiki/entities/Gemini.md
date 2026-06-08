@@ -4,7 +4,7 @@ type: entity
 created: 2026-06-03
 updated: 2026-06-04
 sources: ["Gemini 3.2 Flash What We Know Before Google IO 2026", "S — New AI Model Releases April 2026 Startup Edition"]
-tags: [google-deepmind, llm, multimodal, product, "2026"]
+tags: [google-deepmind, llm, multimodal, product, y2026]
 ---
 
 # Gemini

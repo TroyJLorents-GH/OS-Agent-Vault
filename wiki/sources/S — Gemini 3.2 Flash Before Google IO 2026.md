@@ -4,7 +4,7 @@ type: source
 created: 2026-06-03
 updated: 2026-06-04
 sources: ["Gemini 3.2 Flash What We Know Before Google IO 2026"]
-tags: [llm, product, benchmark, inference, google-deepmind, prediction, "2026"]
+tags: [llm, product, benchmark, inference, google-deepmind, prediction, y2026]
 ---
 
 # S — Gemini 3.2 Flash: What We Know Before Google I/O 2026

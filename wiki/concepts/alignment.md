@@ -4,7 +4,7 @@ type: concept
 created: 2026-06-04
 updated: 2026-06-04
 sources: ["anthropic-81k-interviews-2026-03-18", "Harness, Scaffold, and the AI Agent Terms Worth Getting Right"]
-tags: [alignment, safety, llm, reasoning, "2026"]
+tags: [alignment, safety, llm, reasoning, y2026]
 ---
 
 # Alignment

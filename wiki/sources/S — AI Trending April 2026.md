@@ -4,7 +4,7 @@ type: source
 created: 2026-04-11
 updated: 2026-04-11
 sources: ["AI Trending April 2026 The Top 5 Developments & News.md"]
-tags: [llm, agents, multimodal, prediction, product, strategy, "2026"]
+tags: [llm, agents, multimodal, prediction, product, strategy, y2026]
 ---
 
 # S — AI Trending April 2026

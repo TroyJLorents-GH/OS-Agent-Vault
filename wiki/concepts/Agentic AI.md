@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-11
 updated: 2026-06-03
 sources: ["S — AI Trending April 2026", "S — Components of A Coding Agent", "Harness, Scaffold, and the AI Agent Terms Worth Getting Right", "Henry — The AI Worker that does real IT work"]
-tags: [agents, llm, technique, product, prediction, "2026"]
+tags: [agents, llm, technique, product, prediction, y2026]
 ---
 
 # Agentic AI

@@ -354,3 +354,26 @@ Resolved the lint's time-sensitive items via live web search (US web, current as
 **Also updated:** `overview.md` open-threads (3 items marked resolved; added Gemini 3.5 Pro GA + leak-calibration as new watch items).
 
 **Method note:** web facts cited inline as markdown links (not raw/ sources). Original predictions preserved with outcomes appended (per "note the evolution, don't silently overwrite"). The pre-I/O Gemini page is **kept** as a deliberate leak-vs-reality calibration record.
+
+## [2026-06-05] maintain | Project pages — job-nexus, peptide-app, automateflows
+
+Interviewed Troy (3 questions each: problem/who, stack, stage+blocker) and built real project pages from his specs — not scaffolds. Resolves the unresolved project links flagged in the 2026-06-03 lint.
+
+**Pages created (3):**
+- `projects/job-nexus` — resume↔job-description matching app. Stack: Azure Cosmos DB + Azure AI Search + TypeScript/Vite/Firebase. Status: **shipped**. Framed as [[retrieval-augmented-generation]]/semantic-search + [[domain-specific-ai]] (recruiting) + [[AI as equalizer]]. Open: LLM-in-loop or pure vector search; [[Indeed]] MCP integration.
+- `projects/peptide-app` — peptide concentration tracker + scheduler + goals. Stack: TypeScript/Vite + Supabase. Status: **deployed**. Honest framing: least AI-centric; AI is a candidate layer, not current. Regulatory caution noted (health/dosing).
+- `projects/automateflows` — Troy's **company**: AI/automation implementation for businesses. Stack (site): React/Vite/Tailwind/Netlify. Status: **deployed/operating**. Services edge of [[AI Workforce]]; likely [[n8n]]-delivered; SMB analog to [[Henry]]. Flagged possible future `wiki/business/` page.
+
+**Pages updated (2):** `index` (Projects section — 3 entries), `overview.md` (§8 Troy's projects — expanded from "unbuilt" to built, with per-project links + thesis).
+
+**New gaps surfaced:** `[[Indeed]]` entity (referenced by job-nexus, MCP available) has no page; automateflows may warrant a `business/` page if GTM/revenue side grows. Delivery stack of automateflows = the real IP; worth documenting separately from the marketing-site stack.
+
+## [2026-06-05] maintain | Temporal tag fix — bare years → y-prefix (vault-wide sweep)
+
+Troy reported Obsidian never registered the year tags. Root cause: **Obsidian rejects all-numeric tags** (`2026` needs ≥1 non-numeric char). An earlier pass (see log entry "Fixed 68 files with unquoted year tags") had *quoted* them (`"2026"`) thinking that fixed it — it didn't; quoting doesn't make a numeric tag valid, and the linter silently strips it on save.
+
+**Convention decided with Troy:** temporal tag = `y` + year → `y2026`, `y2025`. CLAUDE.md taxonomy line updated to match.
+
+**Sweep:** 104 wiki files rewritten (`"2025"`→`y2025`, `"2026"`→`y2026`) via UTF-8-preserving script. Both tag forms handled (inline array + block list). `log.md:113` deliberately untouched — its quoted years are prose describing the old fix, not tags. Project pages job-nexus/automateflows (whose year tag the linter had already stripped) got `y2026` re-added for uniformity.
+
+**Memory:** saved as feedback `obsidian-numeric-tags-invalid` so this never regresses across sessions.

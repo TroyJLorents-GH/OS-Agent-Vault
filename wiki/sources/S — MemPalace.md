@@ -4,7 +4,7 @@ type: source
 created: 2026-04-10
 updated: 2026-04-10
 sources: ["milla-jovovichmempalace The highest-scoring AI memory system ever benchmarked. And it's free.md"]
-tags: [llm, agents, technique, benchmark, "2026"]
+tags: [llm, agents, technique, benchmark, y2026]
 ---
 
 # S — MemPalace

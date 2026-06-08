@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "32d08bacbe9dea69",
+        "id": "768fc0f184a76098",
         "type": "tabs",
         "children": [
           {
-            "id": "c9f41c44987e75a4",
+            "id": "6e98610ab5b66351",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Harness, Scaffold, and the AI Agent Terms Worth Getting Right.md",
+                "file": "wiki/concepts/Agent Harness and Scaffolding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right"
+              "title": "Agent Harness and Scaffolding"
             }
           }
         ]
@@ -183,43 +183,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "edde5e2da3cdbeea",
+  "active": "6e98610ab5b66351",
   "lastOpenFiles": [
-    "AI News Archive/2026/06/2026-06-05.md",
-    "AI News Archive/data/2026-06-05_14-02-19_run-604393ed.json",
-    "wiki/log.md.tmp.72692.468db545fb79",
-    "wiki/overview.md.tmp.72692.0d7bd19c5297",
-    "wiki/entities/google.md.tmp.72692.ecd93501153e",
-    "wiki/entities/google.md.tmp.72692.1745403ebaee",
-    "wiki/sources/S — Gemini 3.2 Flash Before Google IO 2026.md.tmp.72692.8a2775881093",
-    "wiki/entities/Gemini.md.tmp.72692.eac93eca9a82",
-    "wiki/entities/Gemini.md.tmp.72692.e910a3e47fde",
-    "wiki/sources/S — Top Tech News May 15 2026.md.tmp.72692.964175359daa",
-    "wiki/sources/S — Top Tech News May 15 2026.md.tmp.72692.1c73b6f7b26a",
-    "wiki/concepts/QLoRA.md",
-    "wiki/concepts/LoRA.md",
-    "wiki/concepts/scaling laws.md",
-    "wiki/concepts/alignment.md",
-    "wiki/overview.md",
-    "AI News Archive/2026/06/2026-06-04.md",
-    "wiki/projects/agent-os.md",
-    "wiki/entities/Gemma.md",
-    "wiki/concepts/AI Workforce.md",
-    "wiki/concepts/Context Engineering.md",
-    "wiki/concepts/Agent Harness and Scaffolding.md",
-    "wiki/entities/Henry.md",
-    "wiki/entities/Gemini.md",
-    "wiki/sources/S — Henry AI Worker Enterprise Predictions 2026.md",
-    "wiki/sources/S — Harness Scaffold and Agent Terms.md",
-    "wiki/sources/S — Gemini 3.2 Flash Before Google IO 2026.md",
-    "AI News Archive/2026/06/2026-06-03.md",
-    "AI News Archive/2026/06/2026-06-02.md",
-    "AI News Archive/2026/06/2026-06-01.md",
-    "AI News Archive/2026/05/2026-05-31.md",
-    "AI News Archive/2026/05/2026-05-30.md",
-    "raw/Henry — The AI Worker that does real IT work.md",
-    "raw/Harness, Scaffold, and the AI Agent Terms Worth Getting Right 1.md",
-    "AI News Archive/2026/05/2026-05-29.md",
-    "AI News Archive/2026/05/2026-05-28.md"
+    "brain/Closet/db7a516a-ae46-43ea-acfe-c46a0f728484.md",
+    "AI News Archive/2026/06/2026-06-08.md",
+    "AI News Archive/data/2026-06-08_14-02-00_run-7da7a328.json",
+    "AI News Archive/2026/06/2026-06-07.md",
+    "AI News Archive/data/2026-06-07_14-01-19_run-27959563.json",
+    "wiki/index.md",
+    "Untitled.canvas",
+    "brain/SemanticMemory/de200dca-a1cf-470d-a40b-083a5567639c.md",
+    "brain/Digest/3b751584-da26-47e0-9cd0-aa4eb08c2954.md",
+    "AI News Archive/2026/06/2026-06-06.md",
+    "AI News Archive/data/2026-06-06_14-00-40_run-25b04f01.json",
+    "wiki/log.md.tmp.49028.4a509a967d18",
+    "CLAUDE.md.tmp.49028.7527197d6c1a",
+    "brain/Digest/1df88a69-efa2-4d1d-987b-9519e5961756.md",
+    "brain/Digest/1a48e0d8-2227-45ec-ba01-8fdd28925fd4.md",
+    "brain/Code/afcca3db-ca3d-41fe-b9bf-51a85e05207f.md",
+    "brain/Code/cf4855e0-d20b-40bb-8a5b-220f795110bd.md",
+    "brain/Code/a06ce9b0-5e3e-4c6f-99a8-d367789d7922.md",
+    "brain/Code/8724dfb2-0350-45eb-b916-a7f20831df60.md",
+    "brain/Code/7fd15430-63b8-4d35-91a3-7af4b71c0b5b.md",
+    "brain/Code/6f790844-3054-4733-a3bc-40153de765fc.md",
+    "brain/CodeReview/872eec36-bc05-423a-b218-07aa469077ec.md",
+    "brain/Code/2ea86171-7407-4c7b-8b11-cb119f023488.md",
+    "brain/Closet/bf96c1ca-d910-47f9-81a3-3cb7d13f921a.md",
+    "brain/Closet/62142bcf-9578-444d-9ca8-874a4b030e7e.md",
+    "brain/Closet/712d151c-ff01-4861-9a9b-e4560f0bc0e0.md",
+    "brain/Closet/039aa511-ef99-48f4-9848-fdeb68cd21de.md",
+    "brain/Closet/6e12f2a5-20a7-440c-aaca-4287485adaf6.md",
+    "brain/Closet/4da77536-e218-4554-9e25-9adf281902bd.md",
+    "brain/Closet/4fd5daea-3c3d-493e-943c-0c2b1d41f276.md",
+    "brain/Closet/4f7a523c-adfe-4207-9bf9-0df5c5b122a9.md",
+    "brain/Closet/1b621027-271b-4f35-830b-ad885b165fe1.md",
+    "wiki/projects/automateflows.md.tmp.49028.4b6367fdf791",
+    "Untitled 4.base",
+    "wiki/projects/job-nexus.md.tmp.49028.0b9179def8cb",
+    "Untitled.base",
+    "Untitled 3.base",
+    "Untitled 1.canvas"
   ]
 }

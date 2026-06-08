@@ -4,7 +4,7 @@ type: concept
 created: 2026-06-04
 updated: 2026-06-04
 sources: ["S — The Big LLM Architecture Comparison", "S — AI Technology Trends 2026 Key Developments"]
-tags: [scaling-laws, training, compute, theory, llm, "2026"]
+tags: [scaling-laws, training, compute, theory, llm, y2026]
 ---
 
 # Scaling Laws

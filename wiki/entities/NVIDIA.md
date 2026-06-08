@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-15
 updated: 2026-05-16
 sources: ["S — AI Technology Trends 2026 Key Developments", "S — Developing a Standard AI OS", "S — The Big LLM Architecture Comparison", "S — Top Tech News May 15 2026"]
-tags: [nvidia, compute, robotics, product, "2026"]
+tags: [nvidia, compute, robotics, product, y2026]
 ---
 
 # NVIDIA

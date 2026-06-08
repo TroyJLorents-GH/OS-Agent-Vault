@@ -4,7 +4,7 @@ type: entity
 created: 2026-05-16
 updated: 2026-05-16
 sources: ["S — Top Tech News May 15 2026"]
-tags: [compute, product, "2026"]
+tags: [compute, product, y2026]
 ---
 
 # Cerebras

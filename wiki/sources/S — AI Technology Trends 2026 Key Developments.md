@@ -4,7 +4,7 @@ type: source
 created: 2026-04-15
 updated: 2026-04-15
 sources: ["AI Technology Trends 2026 Key Developments You Need to Know.md"]
-tags: [llm, agents, robotics, multimodal, policy, strategy, prediction, "2026"]
+tags: [llm, agents, robotics, multimodal, policy, strategy, prediction, y2026]
 ---
 
 # S — AI Technology Trends 2026: Key Developments You Need to Know

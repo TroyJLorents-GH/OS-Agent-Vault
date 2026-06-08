@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-15
 updated: 2026-04-15
 sources: ["S — AI Technology Trends 2026 Key Developments", "S — AI Trending April 2026"]
-tags: [policy, alignment, safety, strategy, "2026"]
+tags: [policy, alignment, safety, strategy, y2026]
 ---
 
 # AI Regulation

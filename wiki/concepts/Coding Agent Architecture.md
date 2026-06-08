@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-06-03
 sources: ["S — Components of A Coding Agent", "Harness, Scaffold, and the AI Agent Terms Worth Getting Right"]
-tags: [agents, code-gen, llm, architecture, technique, "2026"]
+tags: [agents, code-gen, llm, architecture, technique, y2026]
 ---
 
 # Coding Agent Architecture

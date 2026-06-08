@@ -4,7 +4,7 @@ type: source
 created: 2026-04-10
 updated: 2026-04-10
 sources: ["Components of A Coding Agent.md"]
-tags: [llm, agents, code-gen, architecture, technique, "2026"]
+tags: [llm, agents, code-gen, architecture, technique, y2026]
 ---
 
 # S — Components of A Coding Agent

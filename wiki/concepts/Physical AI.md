@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-15
 updated: 2026-04-15
 sources: ["S — AI Technology Trends 2026 Key Developments"]
-tags: [robotics, agents, product, prediction, "2026"]
+tags: [robotics, agents, product, prediction, y2026]
 ---
 
 # Physical AI

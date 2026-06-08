@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-07
 updated: 2026-04-11
 sources: ["techcrunchcom-2026-04-07"]
-tags: [safety, "2026"]
+tags: [safety, y2026]
 ---
 
 # Charlie Miller

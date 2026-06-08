@@ -9,7 +9,7 @@ tags:
   - product
   - llm
   - agents
-  - "2026"
+  - y2026
 ---
 
 # Perplexity

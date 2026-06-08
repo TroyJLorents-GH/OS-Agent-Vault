@@ -4,6 +4,20 @@ You are the wiki maintainer for this Obsidian vault. This is Troy's second brain
 
 Troy curates sources, asks questions, and directs analysis. You do all the bookkeeping — summarizing, cross-referencing, filing, and maintaining the wiki so Troy can focus on thinking.
 
+## Obsidian Agent Skills
+
+This vault has the `obsidian@obsidian-skills` plugin installed (by Steph Ango / kepano, Obsidian's maker). It provides five skills that load on-invoke. **Use them — they make you fluent in Obsidian's native formats instead of approximating them.** Mapping to this wiki's operations:
+
+| Skill | When to invoke | Use in this vault |
+|-------|----------------|-------------------|
+| **defuddle** | INGEST a web URL | Extract clean markdown from a page before summarizing. Strips nav/ads/chrome, cuts token cost. Run it first when a source is a URL rather than already-clean text in `raw/`. |
+| **obsidian-bases** | QUERY / taxonomy work | Build and maintain `.base` files — live database views over the tag taxonomy below (e.g. entities by type, sources by year, a predictions tracker). The modern successor to Dataview queries. File Bases in the relevant `wiki/` subdir. |
+| **obsidian-markdown** | Any page write | Author Obsidian Flavored Markdown correctly — callouts (`> [!note]`, `> [!warning]` for contradictions/tensions), embeds (`![[page]]`), properties, and wikilink edge cases. |
+| **json-canvas** | Concept mapping | Generate `.canvas` files to lay out a concept cluster or source-relationship map visually, on top of graph view. |
+| **obsidian-cli** | Vault/plugin ops | CLI interaction with the vault, plugin/theme dev. Rarely needed for wiki maintenance. |
+
+Rule: when a skill covers what you're about to do, invoke it rather than hand-rolling the format. These are inert until called, so there's no cost to leaving them installed.
+
 ## Directory Structure
 
 ```
@@ -74,6 +88,7 @@ When citing a specific source, use the format: `(Source: [[source-page-name]])`.
 Triggered when the human adds a new source to `raw/` and asks you to process it.
 
 **Steps:**
+0. If the source is a web URL (not already clean text in `raw/`), invoke the **defuddle** skill to extract clean markdown first.
 1. Read the source document fully.
 2. Discuss key takeaways with the human — ask what to emphasize if unclear.
 3. Create a summary page in `wiki/sources/` with:
@@ -174,12 +189,12 @@ Issues found, fixes applied.
 
 ## AI Research Taxonomy
 
-Use these tag families consistently across all pages for Dataview queryability:
+Use these tag families consistently across all pages for Dataview queryability (and as the filter columns for **obsidian-bases** views — see [Obsidian Agent Skills](#obsidian-agent-skills)):
 
 - **Domain tags:** `llm`, `agents`, `reasoning`, `alignment`, `safety`, `compute`, `training`, `inference`, `multimodal`, `robotics`, `code-gen`, `rl`, `neuroscience`, `agi`
 - **Type tags:** `architecture`, `benchmark`, `dataset`, `technique`, `product`, `policy`, `prediction`, `opinion`, `breakthrough`
 - **Entity tags:** `openai`, `anthropic`, `google-deepmind`, `meta-ai`, `microsoft`, `nvidia`, `mistral`, `xai`, etc. (add new ones as needed)
-- **Temporal tags:** `2024`, `2025`, `2026`, etc. — tag by the year the source was published
+- **Temporal tags:** `y2024`, `y2025`, `y2026`, etc. — tag by the year the source was published. (Use the `y` prefix — Obsidian does not register all-numeric tags like `2026`.)
 - **Business tags:** `revenue`, `monetization`, `saas`, `marketing`, `strategy`, `competitive-analysis`
 - **Project tags:** `agent-os`, `job-nexus`, `peptide-app`, `automateflows`
 - **Personal tags:** `goals`, `reflection`, `career`, `learning`, `health`

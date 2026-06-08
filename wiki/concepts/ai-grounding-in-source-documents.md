@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-07
 updated: 2026-04-11
 sources: ["techcrunchcom-2026-04-07"]
-tags: [technique, llm, education, alignment, "2026"]
+tags: [technique, llm, education, alignment, y2026]
 ---
 
 # AI grounding in source documents

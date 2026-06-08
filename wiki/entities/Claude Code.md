@@ -4,7 +4,7 @@ type: entity
 created: 2026-05-16
 updated: 2026-06-03
 sources: ["S — Keep Claude Working Toward a Goal", "S — Best AI Tools 2026", "S — Components of A Coding Agent", "Harness, Scaffold, and the AI Agent Terms Worth Getting Right"]
-tags: [product, agents, code-gen, claude-code, anthropic, "2026"]
+tags: [product, agents, code-gen, claude-code, anthropic, y2026]
 ---
 
 # Claude Code

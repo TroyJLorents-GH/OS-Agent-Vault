@@ -4,7 +4,7 @@ type: source
 created: 2026-06-03
 updated: 2026-06-03
 sources: ["Harness, Scaffold, and the AI Agent Terms Worth Getting Right"]
-tags: [agents, llm, technique, rl, training, reference, "2026"]
+tags: [agents, llm, technique, rl, training, reference, y2026]
 ---
 
 # S — Harness, Scaffold, and the AI Agent Terms Worth Getting Right

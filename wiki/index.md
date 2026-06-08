@@ -135,6 +135,9 @@ _Auto-maintained by the Knowledge Compiler._
 ## Projects
 
 - [[projects/agent-os]] — OS-style layer for AI agents; scaffold page (needs Troy's spec/scope)
+- [[projects/job-nexus]] — resume↔job-description matching app; Azure AI Search + Cosmos DB + TS/Vite/Firebase (shipped)
+- [[projects/peptide-app]] — peptide concentration tracker, scheduler, goals; TS/Vite + Supabase (deployed)
+- [[projects/automateflows]] — Troy's company: AI/automation implementation for businesses; React/Vite/Tailwind/Netlify (deployed)
 
 ## Personal
 

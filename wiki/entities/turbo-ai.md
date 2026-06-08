@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-07
 updated: 2026-04-11
 sources: ["techcrunchcom-2026-04-07"]
-tags: [product, agents, multimodal, "2026"]
+tags: [product, agents, multimodal, y2026]
 ---
 
 # Turbo AI

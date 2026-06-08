@@ -9,7 +9,7 @@ tags:
   - product
   - code-gen
   - agents
-  - "2026"
+  - y2026
 ---
 
 # Cursor

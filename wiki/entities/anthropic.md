@@ -4,7 +4,7 @@ type: entity
 created: 2026-04-09
 updated: 2026-05-16
 sources: ["anthropic-81k-interviews-2026-03-18", "S — New AI Model Releases April 2026 Startup Edition", "S — Keep Claude Working Toward a Goal", "S — Top Tech News May 15 2026"]
-tags: [anthropic, llm, alignment, safety, "2026"]
+tags: [anthropic, llm, alignment, safety, y2026]
 ---
 
 # Anthropic

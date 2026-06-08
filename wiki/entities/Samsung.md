@@ -4,7 +4,7 @@ type: entity
 created: 2026-05-16
 updated: 2026-06-04
 sources: ["S — Top Tech News May 15 2026"]
-tags: [compute, samsung, korea, "2026"]
+tags: [compute, samsung, korea, y2026]
 ---
 
 # Samsung

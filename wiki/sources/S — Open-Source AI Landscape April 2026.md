@@ -4,7 +4,7 @@ type: source
 created: 2026-04-13
 updated: 2026-04-13
 sources: ["Open-Source AI Landscape April 2026 Complete Guide.md"]
-tags: [llm, architecture, benchmark, product, strategy, open-source, google-deepmind, meta-ai, openai, mistral, "2026"]
+tags: [llm, architecture, benchmark, product, strategy, open-source, google-deepmind, meta-ai, openai, mistral, y2026]
 ---
 
 # S — Open-Source AI Landscape April 2026

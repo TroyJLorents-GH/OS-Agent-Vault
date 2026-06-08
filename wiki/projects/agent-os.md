@@ -4,7 +4,10 @@ type: project
 created: 2026-06-03
 updated: 2026-06-03
 sources: []
-tags: [agent-os, agents, projects, "2026"]
+tags:
+  - agent-os
+  - agents
+  - projects
 ---
 
 # Agent OS

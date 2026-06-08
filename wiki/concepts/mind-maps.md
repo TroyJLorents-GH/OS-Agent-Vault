@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-07
 updated: 2026-04-11
 sources: ["techcrunchcom-2026-04-07"]
-tags: [education, technique, product, "2026"]
+tags: [education, technique, product, y2026]
 ---
 
 # mind maps

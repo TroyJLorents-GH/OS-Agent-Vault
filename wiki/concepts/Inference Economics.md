@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-15
 updated: 2026-04-15
 sources: ["S — AI Technology Trends 2026 Key Developments", "S — Developing a Standard AI OS", "S — New AI Model Releases April 2026 Startup Edition"]
-tags: [compute, inference, strategy, prediction, product, "2026"]
+tags: [compute, inference, strategy, prediction, product, y2026]
 ---
 
 # Inference Economics

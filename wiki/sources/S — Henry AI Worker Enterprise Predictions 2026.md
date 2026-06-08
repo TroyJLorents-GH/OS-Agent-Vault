@@ -4,7 +4,7 @@ type: source
 created: 2026-06-03
 updated: 2026-06-03
 sources: ["Henry — The AI Worker that does real IT work"]
-tags: [agents, product, prediction, strategy, policy, "2026"]
+tags: [agents, product, prediction, strategy, policy, y2026]
 ---
 
 # S — Henry: The AI Worker That Does Real IT Work

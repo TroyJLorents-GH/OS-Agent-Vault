@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 sources: ["S — MemPalace", "S — Components of A Coding Agent"]
-tags: [agents, llm, technique, "2026"]
+tags: [agents, llm, technique, y2026]
 ---
 
 # AI Memory Systems

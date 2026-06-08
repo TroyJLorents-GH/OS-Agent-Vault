@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 sources: ["S — Components of A Coding Agent"]
-tags: [technique, inference, llm, agents, "2026"]
+tags: [technique, inference, llm, agents, y2026]
 ---
 
 # Prompt Caching

@@ -4,7 +4,7 @@ type: concept
 created: 2026-06-03
 updated: 2026-06-03
 sources: ["Harness, Scaffold, and the AI Agent Terms Worth Getting Right", "S — Components of A Coding Agent"]
-tags: [agents, llm, technique, inference, training, "2026"]
+tags: [agents, llm, technique, inference, training, y2026]
 ---
 
 # Context Engineering

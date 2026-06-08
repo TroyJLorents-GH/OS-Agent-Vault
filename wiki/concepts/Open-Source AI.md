@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-13
 updated: 2026-04-13
 sources: ["S — Open-Source AI Landscape April 2026", "S — New AI Model Releases April 2026 Startup Edition", "S — The Big LLM Architecture Comparison"]
-tags: [llm, architecture, strategy, open-source, "2026"]
+tags: [llm, architecture, strategy, open-source, y2026]
 ---
 
 # Open-Source AI

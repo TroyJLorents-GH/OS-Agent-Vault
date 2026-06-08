@@ -4,7 +4,7 @@ type: concept
 created: 2026-06-04
 updated: 2026-06-04
 sources: ["redhat-slms-scientific-research-2026-03-30"]
-tags: [technique, training, fine-tuning, llm, "2026"]
+tags: [technique, training, fine-tuning, llm, y2026]
 ---
 
 # LoRA (Low-Rank Adaptation)

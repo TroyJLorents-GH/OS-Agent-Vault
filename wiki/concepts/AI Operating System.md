@@ -4,7 +4,7 @@ type: concept
 created: 2026-04-10
 updated: 2026-04-10
 sources: ["S — Developing a Standard AI OS"]
-tags: [compute, inference, llm, product, strategy, red-hat, "2025"]
+tags: [compute, inference, llm, product, strategy, red-hat, y2025]
 ---
 
 # AI Operating System

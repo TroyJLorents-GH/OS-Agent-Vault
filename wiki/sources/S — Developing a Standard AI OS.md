@@ -4,7 +4,7 @@ type: source
 created: 2026-04-10
 updated: 2026-04-10
 sources: ["Developing a standard AI OS Unlocking production-grade AI at enterprise scale.md"]
-tags: [llm, compute, inference, training, product, red-hat, strategy, "2025"]
+tags: [llm, compute, inference, training, product, red-hat, strategy, y2025]
 ---
 
 # S — Developing a Standard AI OS
